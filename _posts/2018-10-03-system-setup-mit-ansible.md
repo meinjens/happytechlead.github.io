@@ -1,6 +1,7 @@
 ---
 layout: post
 title: System-Setup mit Ansible
+bigimg: /assets/server_8724621462_eca99f18e7.jpg
 tags: [raspberrypi, pondpi, ansible]
 ---
 
@@ -46,3 +47,5 @@ ansible-playbook setup\_controlstation.yml
 ## Weitere Schritte
 
 Die nächsten Rollen, die ich implementiere, installieren die Test-Tools, nginx, Flask Server usw. Die Rollen findet ihr ebenfalls im [Github-Repository vom PondPi](https://github.com/meinjens/pondpi/tree/master/setup).
+
+_Das Bild ist von [elenavataga](https://www.flickr.com/photos/efandorin/) - vielen Dank dafür!_
