@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Continuous Delivery: Zwischen Null und Hundert Prozent
+title: Continuous Delivery - Zwischen Null und Hundert Prozent
 tags: [devops, continuous delivery]
 ---
 
-Moderne Projekte erfordern moderne Methoden. Continuous Delivery ist bereits fester Bestandteil. Moderne Methoden werden mit modernen Werkzeugen verknüpft. So wird Continuous Delivery oft in einem Atemzug mit Tools wie Puppet, Chef oder ähnlichen Tools aus dem Sektor "Infrastructure as Code" genannt.
+Moderne Projekte erfordern moderne Methoden. Continuous Delivery ist bereits fester Bestandteil. Moderne Methoden werden mit modernen Werkzeugen verknüpft. So wird Continuous Delivery oft in einem Atemzug mit Tools wie Puppet, Chef oder ähnlichen Tools aus dem Sektor "Infrastructure as Code" genannt. Was jedoch, wenn moderne Werkzeuge nicht eingesetzt werden können oder wollen? Bevor man bei Null bleibt, gibt es immer noch andere Möglichkeiten. Ich möchte in diesem Artikel ein Beispiel zeigen, wie man mit relativ einfachen Mitteln ein Continuous Delivery umsetzen kann. Ich konzentriere mich dabei auf den Schritt "Build System".
 
-Was jedoch, wenn moderne Werkzeuge nicht eingesetzt werden können oder wollen? Bevor man bei Null bleibt, gibt es immer noch andere Möglichkeiten. Ich möchte in diesem Artikel ein Beispiel zeigen, wie man mit relativ einfachen Mitteln ein Continuous Delivery umsetzen kann. Ich konzentriere mich dabei auf den Schritt "Build System".
-
-[![Build - Test - Release](http://www.agile-engineering.de/wp-content/uploads/2013/12/build-test-release.png)](http://www.agile-engineering.de/wp-content/uploads/2013/12/build-test-release.png)
+[![Build - Test - Release](/assets/devops/build-test-release.png)](/assets/devops/build-test-release.png)
 
 Schritte im Continuous Delivery: Build - Test - Release
 
@@ -40,12 +38,12 @@ Dazu verwende ich ANT. Angereichert um ein einfaches Konfigurationmanagement is
 
 Das Konfigurationsmanagement besteht aus mehreren Property-Dateien.
 
-\[raw\]  
+```xml
 <property file="${automator.dir.config.environment}/env.${system}.properties" />  
 <property file="${automator.dir.config.environment}/env.${user.name}.properties" />  
 <property file="${automator.dir.config.environment}/env.${hostname}.properties" />  
 <property file="${automator.dir.config.environment}/env.properties" />  
-\[/raw\]
+```
 
 Das Laden der Properties in ANT ist so eingestellt, dass die Property, die zuerst gesetzt wird, nicht mehr überschrieben wird. Daraus ergibt sich eine Priorität für die verschiedenen Property-Dateien:
 
@@ -77,12 +75,12 @@ Ein Modul ist für ein Teilsystem zuständig. Das kann ein Servlet Container, wi
 
 Die Ladereihenfolge der Module kann über die System-Properties gesteuert werden. Dazu werden die Modul-Verzeichnisse durch Komma getrennt angegeben:
 
-\[raw\]  
+```
 ##  
-\## Modules to use for the system  
+## Modules to use for the system  
 ##  
-system.modules=tomcat\_7\_liferay\_6\_2\_bundle,tomcat\_natives  
-\[/raw\]
+system.modules=tomcat\_7\_liferay\_6\_2\_bundle,tomcat\_natives
+``` 
 
 ## automator
 

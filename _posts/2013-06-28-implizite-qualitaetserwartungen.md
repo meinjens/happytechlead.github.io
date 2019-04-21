@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implizite Qualitätserwartungen
-tags: [architecture, qualitätsszenarien]
+tags: [architecture, arc42, qualitätsszenarien]
 ---
 
 Jeder Entwickler kennt die Situation: Die Software ist gerade fertig gestellt und ausgeliefert und sofort treffen die ersten Fehlermeldungen ein: "Die Software reagiert unter bestimmten Situationen langsam." Jetzt schnell nachgeschlagen in den nicht funktionalen Anforderungen.. und? Findet man dort etwas? Nein? Also kein Fehler?! Es war ja nicht spezifiziert. Der Ärger ist vorprogrammiert.
@@ -30,7 +30,7 @@ Qualitätsanforderungen sollten so konkret wie möglich zu Beginn des Projektes 
 
 *   [Ausformulierte Beispiele für Qualitätsziele](https://github.com/arc42/quality-requirements "Ausformulierte Beispiele für Qualitätsziele")
 
-## Ergänzung von Christian Fischer [agile dojo](http://agiledojo.de)
+**_Ergänzung von Christian Fischer [agile dojo](http://agiledojo.de)_**
 
 Einen guten Hintergrundartikel zur Erstellung dieser Qualitätsszenarien sowie die Prüfung der Architektur in dieser Hinsicht gibt der Artikel von Raphael Bossek:
 
