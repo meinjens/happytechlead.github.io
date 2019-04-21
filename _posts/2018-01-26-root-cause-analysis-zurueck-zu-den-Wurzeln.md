@@ -9,7 +9,7 @@ Ich war lange Zeit als Feuerwehrmann in Projekten tätig. D.h. Fehler analysiere
 
 ## Meine Ungeduld
 
-Mein Vater hat mich früher immer zum Angeln mit genommen. Einmal pro Nachmittag hab ich dann meine Schnur durcheinander gebracht. Ich war ungeduldig und zog an der erst besten Schlaufe. Anstatt den den Knoten aufzulösen, zog sich das Gewirr nur noch weiter zusammen. Es hat sehr lange gedauert, bis ich den Knoten eigenständig auflösen konnte.
+Mein Vater hat mich früher immer zum Angeln mit genommen. Einmal pro Nachmittag hab ich dann meine Schnur durcheinander gebracht. Ich war ungeduldig und zog an der erst besten Schlaufe. Anstatt den den Knoten aufzulösen, zog sich das Gewirr nur noch weiter zusammen. Es hat sehr lange gedauert, bis ich den Knoten eigenständig auflösen konnte. In vielen Fällen habe ich die Angel auch nur frustriert in die Ecke geworfen. Es sollte mir viel später weiterhelfen.
 
 ## Dunkle und Helle Seite der Macht
 
@@ -51,6 +51,6 @@ Meine Erkenntnis bei Fehlern in Organisationen ist, dass meistens mehrere Ursach
 
 ## Es lohnt sich
 
-Der Pfad zur hellen Seite lohnt sich! Ich habe somit viele sehr tiefe Einblicke in Organisationen und letztendlich in die Menschen selbst bekommen. Das hat mich in die Lage gebracht Berge zu versetzen, langwierige Konflikte aufzulösen und Arbeitsprozesse deutlich zu beschleunigen.
+Der Pfad zur hellen Seite lohnt sich! Ich habe somit viele sehr tiefe Einblicke in Organisationen und letztendlich in die Menschen selbst bekommen. Oft muss man dabei sehr geduldig sein und nicht gleich beim ersten Knoten die Angel in die Ecke werfen. Das hat mich in die Lage gebracht "Berge zu versetzen", langwierige Konflikte aufzulösen und Arbeitsprozesse deutlich zu beschleunigen.
 
 _Das Bild ist von [ThoMo1969](https://www.flickr.com/photos/thomo1969/) - vielen Dank dafür!_
