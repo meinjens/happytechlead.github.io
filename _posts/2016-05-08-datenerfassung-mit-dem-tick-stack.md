@@ -87,3 +87,5 @@ stream
 Geschafft! Sobald die Temperatur den kritischen Wert übersteigt, meldet sich der kapacitor mit einer Nachricht im Chat!
 
 [![slack-message](/assets/slack-message-300x53.png)](/assets/slack-message.png)
+
+_Das Bild ist von [Les Pounder](https://www.flickr.com/photos/biglesp/) - vielen Dank dafür!_
