@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test First is a 50 years old idea! WTF?!
+title: Test First Is A 50 Years Old Idea! WTF?!
 bigimg: /assets/kent_beck_44351083524_abd76f84ac.jpg
 tags: [tdd]
 ---
