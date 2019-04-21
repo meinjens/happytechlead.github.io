@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ist TDD tot???
+bigimg: /assets/dhh_252305327_43ab09c05c.jpg
 tags: [tdd, test driven development]
 ---
 
@@ -44,3 +45,5 @@ Am kommenden Freitag geht es weiter in der Diskussion in dem [zweiten Teil](http
 
 *   [Mockists Are Dead. Long Live Classicists.](http://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists)
 *   [UnitTest](http://martinfowler.com/bliki/UnitTest.html)
+
+_Das Bild ist von [Jesper Rønn-Jensen](https://www.flickr.com/photos/jesper/) - vielen Dank dafür!_
