@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Continuous Integration - Basis für agile Entwicklung
+bigimg: /assets/bienenwabe_14389091497_2ef54d37c7.jpg
 tags: [become agile]
 ---
 
@@ -87,3 +88,5 @@ Häufig steht meine Meinung gegen unzählige IT Regularien oder künstlich aufge
 ## Agile Prinzipien
 
 "Deliver frequently in short iterations" ist für mich an dieser Stelle das vorrangige agile Prinzip. Continuous Integration ist die agile Praktik, die ein agiles Vorgehen überhaupt erst ermöglicht.
+
+_Das Bild ist von [Riccardo Meneghini](https://www.flickr.com/photos/foto_olio/) - vielen Dank dafür!_
