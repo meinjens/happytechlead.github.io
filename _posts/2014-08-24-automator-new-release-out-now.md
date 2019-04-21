@@ -1,6 +1,7 @@
 ---
 layout: post
 title: automator - New Release Out Now!
+bigimg: /assets/automate_6858583426_39dbf3910f.jpg
 tags: [devops]
 ---
 
@@ -14,3 +15,5 @@ Die Änderungen sind nicht sehr umfangreich. Ich habe aus den laufenden Projekte
 Das System hat sich im Einsatz bewährt und erledigt zuverlässig seinen Dienst. Dennoch behalte ich den Beta-Status vorerst bei.
 
 Hier geht's zum neuen Release: [automator beta .3](https://github.com/meinjens/automator/releases/tag/v0.3-beta "automator beta .3")
+
+_Das Bild ist von [Steve Jurvetson](https://www.flickr.com/photos/jurvetson/) - vielen Dank dafür!_
