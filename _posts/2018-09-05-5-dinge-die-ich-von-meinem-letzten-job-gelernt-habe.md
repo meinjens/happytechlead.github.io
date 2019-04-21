@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hilf anderen und Dir wird geholfen
+title: 5 Dinge, die ich von meinem letzten Job gelernt habe
 bigimg: /assets/rugby_37915906321_ec1bb1c903.jpg
 tags: [become agile]
 ---
