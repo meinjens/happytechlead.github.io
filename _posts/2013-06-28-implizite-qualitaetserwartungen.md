@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implizite Qualitätserwartungen
-bigimage: /assets/airport_ber_7189414714_1b6f443886.jpg
+bigimg: /assets/airport_ber_7189414714_1b6f443886.jpg
 tags: [architecture, arc42, qualitätsszenarien]
 ---
 
@@ -31,7 +31,7 @@ Qualitätsanforderungen sollten so konkret wie möglich zu Beginn des Projektes 
 
 *   [Ausformulierte Beispiele für Qualitätsziele](https://github.com/arc42/quality-requirements "Ausformulierte Beispiele für Qualitätsziele")
 
-**_Ergänzung von Christian Fischer [agile dojo](http://agiledojo.de)_**
+**_Ergänzung von Christian Fischer ([agile dojo](http://agiledojo.de))_**
 
 Einen guten Hintergrundartikel zur Erstellung dieser Qualitätsszenarien sowie die Prüfung der Architektur in dieser Hinsicht gibt der Artikel von Raphael Bossek:
 
