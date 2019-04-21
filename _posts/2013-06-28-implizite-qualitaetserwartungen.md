@@ -38,3 +38,5 @@ Einen guten Hintergrundartikel zur Erstellung dieser Qualitätsszenarien sowie d
 [http://raphaelbossek.wordpress.com/2010/10/08/qualitatsrezepte-fur-softwarearchitekturen/](http://raphaelbossek.wordpress.com/2010/10/08/qualitatsrezepte-fur-softwarearchitekturen/)
 
 In der Regel schließt sich nach der Ermittlung der Nichtfunktionalen Anforderungen die Frage an, wie sichergestellt wird, dass diese auch im Laufe der Entwicklung angemessen berücksichtigt werden. Hierfür hat sich aus meiner Erfahrung eine einfache Tabelle, meist als Bestandteil des Qualitätshandbuchs, bewährt, in der für jedes Szenario die Prüfmethode sowie die entsprechenden Architekturstrategien aufgeführt werden.
+
+_Das Bild ist von [Michael Mayer](https://www.flickr.com/photos/michael_mayer/) - vielen Dank dafür!_
