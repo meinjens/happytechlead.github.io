@@ -86,3 +86,5 @@ system.modules=tomcat\_7\_liferay\_6\_2\_bundle,tomcat\_natives
 ## automator
 
 Das Gesamtprojekt heißt [automator](https://github.com/meinjens/automator "automator") Dort finden sich weitere Module in einer allerersten Version.
+
+_Das Bild ist von [Bill Simon](https://www.flickr.com/photos/42892947@N04/) - vielen Dank dafür!_
