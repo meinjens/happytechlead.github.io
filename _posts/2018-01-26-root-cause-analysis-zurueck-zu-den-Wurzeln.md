@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Root Cause Analysis, zurück zu den Wurzeln
+bigimg: /assets/hieroglyphen_5967262068_2576ca5648.jpg
 tags: [become agile]
 ---
 
@@ -14,7 +15,7 @@ Mein Vater hat mich früher immer zum Angeln mit genommen. Einmal pro Nachmittag
 
 Es gibt Fehlerkorrekturen die gehen schneller, sind leichter und sind deshalb verführerisch. Besonders dann wenn man unter Druck steht. Die meisten Fehlerkorrekturen, die ich überhastet erledigt habe, kamen meistens irgendwann wieder. Entweder wenn ich das Umfelds des Fehlers noch mal berührt habe oder ich die Software erweitern musste. Für mich ist deshalb der Pfad zur hellen Seite der Macht, den Fehler auf den Grund zu gehen und sich die Zeit zu nehmen, um die eigentliche Ursache zu finden. Für diese Seite habe ich mich entschieden.
 
-https://www.youtube.com/watch?v=vmO7y7hJG6c
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmO7y7hJG6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Der Pragmatische Lösungsweg
 
@@ -51,3 +52,5 @@ Meine Erkenntnis bei Fehlern in Organisationen ist, dass meistens mehrere Ursach
 ## Es lohnt sich
 
 Der Pfad zur hellen Seite lohnt sich! Ich habe somit viele sehr tiefe Einblicke in Organisationen und letztendlich in die Menschen selbst bekommen. Das hat mich in die Lage gebracht Berge zu versetzen, langwierige Konflikte aufzulösen und Arbeitsprozesse deutlich zu beschleunigen.
+
+_Das Bild ist von [ThoMo1969](https://www.flickr.com/photos/thomo1969/) - vielen Dank dafür!_
