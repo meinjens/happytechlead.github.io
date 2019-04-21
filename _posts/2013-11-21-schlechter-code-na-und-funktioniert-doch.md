@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Schlechter Code!? Na und?! Funktioniert doch!
+bigimg: /assets/bad_tracks_7632054886_f05f3db6f7.jpg
 tags: [clean code]
 ---
 
@@ -75,3 +76,5 @@ Robert C. Martin kann Euch helfen. Er sagt Euch zum Beispiel, wann ihr aufräume
 *   [The Clean Coder (Robert C. Martin)](http://www.amazon.de/dp/0137081073)
 *   [Clean Code (Robert C. Martin)](http://www.amazon.de/dp/0132350882)
 *   [www.cleancoders.com (Robert C. Martin)](http://www.cleancoders.com/)
+
+_Das Bild ist von [Kecko](https://www.flickr.com/photos/kecko/) - vielen Dank dafür!_
