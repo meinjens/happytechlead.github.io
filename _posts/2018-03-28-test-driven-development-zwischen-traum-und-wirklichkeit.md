@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test-Driven-Development - Zwischen Traum und Wirklichkeit
+bigimg: /assets/einhorn_6833346648_65b0f3efdb.jpg
 tags: [become agile]
 ---
 
@@ -89,3 +90,5 @@ Und betrachtet: Bei einer Testabdeckung von 40%, nehme ich das Risiko auf, dass 
 ## Agile Prinzipien
 
 „Deliver frequently in short iterations“ und „Technical excellence" sind die beiden Prinzipien und damit die Motivation für TDD. Ohne dieses Vorgehen sind auch kleinere Änderungen an der Software nur mit einem hohen Zeitaufwand möglich.
+
+_Das Bild ist von [yosuke muroya](https://www.flickr.com/photos/hamur0w0/) - vielen Dank dafür!_
