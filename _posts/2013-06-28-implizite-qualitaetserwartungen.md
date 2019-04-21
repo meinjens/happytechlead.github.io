@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Implizite Qualitätserwartungen
+bigimage: /assets/airport_ber_7189414714_1b6f443886.jpg
 tags: [architecture, arc42, qualitätsszenarien]
 ---
 
