@@ -9,4 +9,4 @@ Systemd ist der Dienst mit dem die meisten Linux Dienste gesteuert werden. Die E
 ### Weitere Informationen
 
 * [DigitialOcean](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
-* [Medium](https://medium.com/@johannes_gehrs/getting-started-with-systemd-on-debian-jessie-e024758ca63d#.mp1n48urp))
+* [Medium](https://medium.com/@johannes_gehrs/getting-started-with-systemd-on-debian-jessie-e024758ca63d#.mp1n48urp)

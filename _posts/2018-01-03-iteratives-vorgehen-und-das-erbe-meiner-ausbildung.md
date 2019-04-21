@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Iteratives Vorgehen und das Erbe meiner Ausbildung
+bigimg: /assets/drei_hasen_3125455832_6d7b06bd54.jpg
 tags: [become agile]
 ---
 
 Ich habe mir öfters schon mal die Frage gestellt, wie man ein agiles Mindset entwickeln oder etablieren kann. Früher war meine Antwort sicherlich: Dazu lass uns mal einen Workshop machen! Mittlerweile hat sich das Gefühl breit gemacht, dass eine Vielzahl von unterschiedlichen Erfahrungen notwendig sind, um eine Veränderung der Einstellung zu bewirken.
 
-Ich möchte in meinem Blog über verschiedene Erfahrungen reflektieren, um auf die Entwicklung meines agilen Mindsets zurück zu blicken. Vielleicht findet sich ja der ein oder andere wieder und somit auch Tipps wie man agiler werden kann.
+Ich möchte in meinem Blog über verschiedene Erfahrungen reflektieren, um auf die Entwicklung meines agilen Mindsets zurück zu blicken. Vielleicht findet sich ja der ein oder andere wieder und somit auch Tipps wie man agiler werden kann. Die Artikel sind getaggt mit _become agile_.
 
 ## Lehrjahre und die ersten Gehversuche
 
@@ -53,3 +54,12 @@ Folgende Fragen helfen mir dabei Inkremente kleiner zu bekommen:
 *   Brauchen wir das System XY jetzt schon? Können wir schwer gewichtige Entscheidungen nicht auf später vertagen, bis wir mehr über die Problemdomäne wissen?
 
 Aber selbst heute sind meine Inkremente nicht selten zu groß. Deshalb weiter: Üben, Üben, Üben.
+
+_Update (21.04.2019)_
+
+
+Eine tolle Übersicht zu Story Splitting Mustern: 
+[https://agileforall.com/splitting-stories-in-german-or-user-stories-aufteilen/](https://agileforall.com/splitting-stories-in-german-or-user-stories-aufteilen/)
+
+
+_Das Bild ist von [pilot_micha](https://www.flickr.com/photos/pilot_michael/) - vielen Dank dafür!_

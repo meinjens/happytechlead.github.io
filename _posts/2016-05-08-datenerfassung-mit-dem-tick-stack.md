@@ -32,18 +32,16 @@ Früher haben wir einen eigenen Subscriber Dienst in Python geschrieben, der die
 Hier die Konfiguration für den Consumer:
 
 ```bash
-
-\[\[inputs.mqtt\_consumer\]\]  
-servers = \["localhost:1883"\]  
+[[inputs.mqtt_consumer]]
+servers = ["localhost:1883"]
 qos = 0  
-topics = \[  
+topics = [
 "/#",  
-\]  
-metric\_buffer = 100000  
-persistent\_session = true  
-client\_id = "eigene client id vergeben"  
-data\_format = "influx"
-
+]
+metric_buffer = 100000  
+persistent_session = true  
+client_id = "eigene client id vergeben"  
+data_format = "influx"
 ```
 
 Das Zusammenspiel von Raspberry Pi, Mosquitto und Telegraf lässt sich im Debug Modus von Mosquitto gut überwachen können. Darin ließen sich alle Nachrichten und Verbindungen gut einsehen.
@@ -70,9 +68,10 @@ Der Task sieht bei mir so aus:
 ```
 stream  
 |from().database('telegraf').retentionPolicy('default')  
-.measurement('cpu\_temperature')  
-.groupBy('host')  
-|alert()  
+.measurement('cpu_temperature')  
+.groupBy('host')
+
+|alert()
 .id('{{ .Name }}/{{ index .Tags "host" }}')  
 .message('{{ index .Tags "host" }} hat {{ .Level }} Level: Die Temperatur beträgt {{ index .Fields "value" }}°C.')  
 .crit(lambda: "value" > 60)  
@@ -80,7 +79,7 @@ stream
 .slack()  
 ```
 
-Übersetzt bedeutet das Script: Schau dir das Messreihe cpu\_temperature an und gruppiere das nach den Hosts. Sobald der Wert die 70 Grad überschreitet, schreibe dies in ein Log und benachrichtige mich über Slack darüber. Damit die Benachrichtung über Slack funktioniert muss man einen Webhook in Slack konfigurieren und dies in die kapacitor.conf eintragen.
+Übersetzt bedeutet das Script: Schau dir das Messreihe cpu_temperature an und gruppiere das nach den Hosts. Sobald der Wert die 70 Grad überschreitet, schreibe dies in ein Log und benachrichtige mich über Slack darüber. Damit die Benachrichtung über Slack funktioniert muss man einen Webhook in Slack konfigurieren und dies in die kapacitor.conf eintragen.
 
 ## Das geht!
 
