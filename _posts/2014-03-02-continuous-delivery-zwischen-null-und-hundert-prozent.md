@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Continuous Delivery - Zwischen Null und Hundert Prozent
-tags: [devops, continuous delivery]
+tags: [continuous delivery]
+bigimg: /assets/ant_trail_4949623361_50882be999.jpg
 ---
 
 Moderne Projekte erfordern moderne Methoden. Continuous Delivery ist bereits fester Bestandteil. Moderne Methoden werden mit modernen Werkzeugen verknüpft. So wird Continuous Delivery oft in einem Atemzug mit Tools wie Puppet, Chef oder ähnlichen Tools aus dem Sektor "Infrastructure as Code" genannt. Was jedoch, wenn moderne Werkzeuge nicht eingesetzt werden können oder wollen? Bevor man bei Null bleibt, gibt es immer noch andere Möglichkeiten. Ich möchte in diesem Artikel ein Beispiel zeigen, wie man mit relativ einfachen Mitteln ein Continuous Delivery umsetzen kann. Ich konzentriere mich dabei auf den Schritt "Build System".
