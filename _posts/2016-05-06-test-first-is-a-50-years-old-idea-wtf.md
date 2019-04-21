@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test First is a 50 years old idea! WTF?!
+bigimg: /assets/kent_beck_44351083524_abd76f84ac.jpg
 tags: [tdd]
 ---
 
@@ -11,3 +12,5 @@ Ich erinnere mich an meine Ausbildung als Fachinformatiker in 2004. Ich hatte da
 Ich bin kurz nach meiner Ausbildung in eine Webagentur gewechselt - erinnere ich mich. Vieles was ich dort gelernt habe, war auf einmal nicht mehr gültig. Qualität egal Hauptsache fertig. Review der Ergebnisse? "Geh fort und nerv mich nicht." Damals fehlte mir ein Mentor, der mir zur Seite stand und mir zeigte, wie ich mich im realen Entwickleralltag zu verhalten habe.
 
 Ich höre wieder [Robert Martins Stimme aus seinem Blog](http://blog.8thlight.com/uncle-bob/2013/11/25/Novices-Coda.html): "...we sorely need some battle hardened leaders to guide the novices." - Yes, we do! We don't have them and that's because we forgot writing our tests first!
+
+_Das Bild ist von [Adam Butler](https://www.flickr.com/photos/100289769@N08/) - vielen Dank dafür!_
