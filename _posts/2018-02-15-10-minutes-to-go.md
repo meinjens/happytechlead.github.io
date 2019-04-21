@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 10 Minutes to go
+bigimg: /assets/schneckenrennen_9010600618_bd8d776632.jpg
 tags: [become agile]
 ---
 
@@ -41,3 +42,5 @@ Mein Idealfall sieht so aus, dass nach dem angenommenen Merge Request die gesamt
 ## Agile Prinzipien
 
 Agil heißt für mich von einem stabilen zustand in einen stabilen Zustand zu wechseln. Bei einer Iterationslänge von 2 Wochen sollte man sich also mit möglichst wenig administrativen Kleinkram aufhalten. Und das was am meisten aufhält ist ein schlechter Buildprozess. Deswegen lohnt sich hier aus meiner Sicht immer zu investieren und zu optimieren.
+
+_Das Bild ist von [Paolo Valdemarin](https://www.flickr.com/photos/paolovalde/) - vielen Dank dafür!_
