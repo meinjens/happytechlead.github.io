@@ -147,8 +147,9 @@ Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer Cookie-E
   
 <iframe
         style="border: 0; height: 200px; width: 600px;"
-        src="https://analytics.jensmeinecke.de/index.php?module=CoreAdminHome&action=optOut&language=de&backgroundColor=&fontColor=&fontSize=&fontFamily="
+        src="https://analytics.jensmeinecke.de/index.php?module=CoreAdminHome&action=optOut&language=de&backgroundColor=&fontColor=&fontSize=18px&fontFamily=Lora%2C%20%22Times%20New%20Roman%22%2C%20serif"
         ></iframe>
+
 
 ### Onlinepräsenzen in sozialen Medien
 
