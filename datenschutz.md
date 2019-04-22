@@ -3,6 +3,7 @@ layout: page
 title: Datenschutz
 permalink: /datenschutz
 ---
+
 ## Datenschutzerklärung
 
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).  
@@ -144,7 +145,10 @@ Die Logs mit den Daten der Nutzer werden nach spätestens 6 Monaten gelöscht.
   
 Sofern wir die Nutzer um eine Einwilligung bitten (z.B. im Rahmen einer Cookie-Einwilligung), ist die Rechtsgrundlage dieser Verarbeitung Art. 6 Abs. 1 lit. a. DSGVO. Ansonsten werden die personenbezogenen Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) verarbeitet.  
   
-\[Bitte setzen Sie an dieser Stelle das IFRAME von Matomo mit dem opt-out cookie ein (und schalten die IP-Anonymisierung im Einstellungsbereich ein)\].
+<iframe
+        style="border: 0; height: 200px; width: 600px;"
+        src="https://analytics.jensmeinecke.de/index.php?module=CoreAdminHome&action=optOut&language=de&backgroundColor=&fontColor=&fontSize=&fontFamily="
+        ></iframe>
 
 ### Onlinepräsenzen in sozialen Medien
 

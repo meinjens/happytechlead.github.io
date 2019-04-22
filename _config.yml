@@ -71,11 +71,10 @@ social-network-links:
   email: "mail@jensmeinecke.de"
   github: meinjens
   twitter: meinjens
-#  facebook: false
+  xing: Jens_Meinecke5
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
-#  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
@@ -92,6 +91,7 @@ share-links-active:
   facebook: false
   google: false
   linkedin: true
+  xing: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -112,10 +112,10 @@ url-pretty: "HappyTechLead.de"  # eg. "deanattali.com/beautiful-jekyll"
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+matomo:
+  site_id: "1"
+  uri: "analytics.jensmeinecke.de"
+  opt-out: true
 
 # --- Comments --- #
 
