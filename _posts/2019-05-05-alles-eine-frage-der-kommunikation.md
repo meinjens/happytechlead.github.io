@@ -71,4 +71,4 @@ Mein damaliger [Kommunikationstrainer Uwe Riebling](https://www.berchtold-consul
 
 "Man soll nicht alles Glauben [was in der Zeitungs steht!](https://www.reinhard-mey.de/start/texte/alben/was-der-zeitung-steht)". Dieser Satz setzte sich in meinem Kopf fest. Im Zeitalter der modernen Informationsverarbeitung wird es schwieriger die für mich wichtigen Informationen zu selektieren. Ich finde es schwierig das System der Massenmedien zu beobachten. Ich kenne die Besitzverhältnisse von Zeitungen, Verlage und Internetportale zu wenig, um die Kriterien für deren Selektion einzuschätzen. Ein Beigeschmack bleibt für mich bei jeder wahrgenommen Nachricht: Was steckt dahinter? Ist das wahr? Werde ich gerade manipuliert?
 
-_Das Bild ist von [y____](https://www.flickr.com/photos/dirkhaim/) - vielen Dank dafür!_
+_Das Bild ist von [dirkhaim](https://www.flickr.com/photos/dirkhaim/) - vielen Dank dafür!_
