@@ -30,6 +30,7 @@ a {
 }
 a:hover,
 a:focus {
+  font-weight: bold;
   color: {{ site.hover-col }};
 }
 blockquote {
