@@ -2,7 +2,7 @@
 layout: post
 title: Alles eine Frage der Kommunikation 
 bigimg: /assets/conference_4407654330_2125f9c736.jpg
-image: /assets/conference_4407654330_2125f9c736_small.jpg
+image: /assets/margot-berghaus-luhmann-leicht-gemacht.jpg
 tags: [book]
 ---
 
