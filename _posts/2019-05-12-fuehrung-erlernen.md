@@ -24,4 +24,4 @@ Mir ist klar, dass ich die Lernergebnisse nicht eins zu eins auf den Menschen ü
 
 Mein Hund soll ein erfülltes Hundeleben haben. Seit drei Jahren haben wir einen Labrador. Seit dieser Zeit denke ich anders über Leadership. Uns wird regelmäßig bescheinigt, dass wir einen gut aussehenden, braven und ausgeglichenen Hund haben. Ab und zu werden aber noch Fußgänger angepöbelt. Alle Artgenossen wollen bespielt werden. Vieles habe ich also schon geschafft. Es gibt aber auch noch Luft nach oben. 
 
-Ob Experimente - wie auf Twitter gefordert - möglich sind, könnt ihr selbst herausfinden. Über meine Lernerfahrungen zum Thema Leadership schreibe ich mit dem Tag [#sully](/tags/#sully).
+Ob Experimente - wie auf Twitter gefordert - möglich sind, könnt ihr selbst herausfinden. Über meine Lernerfahrungen zum Thema Leadership werde ich unter dem Tag [#sully](/tags/#sully) schreiben.
