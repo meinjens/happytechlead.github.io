@@ -2,7 +2,7 @@
 layout: post
 title: Führung erlernen
 subtitle: Was ich von der Arbeit mit Hunden über Leadership gelernt habe
-bigimg: /assets/conference_4407654330_2125f9c736.jpg
+bigimg: /assets/sully_schwimmen_2018-1.jpg
 image: /assets/sully.jpg
 tags: [leadership, sully]
 ---
