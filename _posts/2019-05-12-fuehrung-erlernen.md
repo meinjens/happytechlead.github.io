@@ -26,6 +26,7 @@ Mein Hund soll ein erfülltes Hundeleben haben. Seit drei Jahren haben wir einen
 
 Ob Experimente - wie auf Twitter gefordert - möglich sind, könnt ihr selbst herausfinden. Über meine Lernerfahrungen zum Thema Leadership werde ich unter dem Tag [#sully](/tags/#sully) schreiben.
 
-==== Update 15.05.2019
+__________
+Update 15.05.2019
 
 Vielen Dank für das Feedback auf Twitter und Gesprächen. Ich habe daraufhin den Untertitel geändert in "Was ich von der Arbeit mit Hunden über Leadership gelernt habe".
