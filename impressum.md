@@ -16,7 +16,7 @@ Telefon:
 +49 6007 9389487
 
 E-Mail:
-mail@jensmeinecke.de
+mail(&)jensmeinecke.de
 
 ### Haftung für Inhalte
 
