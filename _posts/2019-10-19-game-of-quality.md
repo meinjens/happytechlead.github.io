@@ -5,7 +5,7 @@ subtitle: Qualitätsszenarien spielerisch entdecken
 bigimg: /assets/quality_and_value-2402908982_86c7188d79_o.jpg
 image: /assets/developing-quality-scenarios.jpg
 tags: [architecture, arc42, qualitätsszenarien]
-share-img: true
+share-img: /assets/developing-quality-scenarios.jpg
 ---
 
 Die Wirkung von Qualitätsszenarien wird aus meiner Sicht nach wie vor unterschätzt. Dabei bilden die Erarbeitung der Qualitätsszenarien die Basis eines jeden IT-Systems. Sie bestimmen maßgeblich den Erfolg oder Mißerfolg. Sich nicht mit dem Thema auseinander zusetzen, bedeutet sehr wahrscheinlich wesentliche Anforderung zu übersehen.
