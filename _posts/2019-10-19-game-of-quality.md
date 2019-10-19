@@ -7,15 +7,15 @@ image: /assets/developing-quality-scenarios.jpg
 tags: [architecture, arc42, qualitätsszenarien]
 ---
 
-Die Wirkung von Qualitätsszenarien wird aus meiner Sicht nach wie vor unterschätzt. Dabei bilden die Erarbeitung der Qualitätsszenarien die Basis eines jeden IT-Systems. Sie bestimmen maßgeblich den Erfolg oder Mißerfolg. Sich nicht mit dem Thema auseinander zusetzen bedeutet sich einem großes Risiko auszusetzen wesentliche Anforderung an ein IT-System nicht zu beachten.
+Die Wirkung von Qualitätsszenarien wird aus meiner Sicht nach wie vor unterschätzt. Dabei bilden die Erarbeitung der Qualitätsszenarien die Basis eines jeden IT-Systems. Sie bestimmen maßgeblich den Erfolg oder Mißerfolg. Sich nicht mit dem Thema auseinander zusetzen, bedeutet sehr wahrscheinlich wesentliche Anforderung zu übersehen.
 
 ## Motivation
 
-"Das Thema ist so trocken!" Diese und ähnlich Antworten habe ich desöfteren von Entwicklern wahrgenommen. Da ich das Thema für sehr wichtig halte, habe ich mir Gedanken gemacht, wie man das Qualitätsszenarien interessanter vermitteln kann. Mein Umfeld arbeit häufig mit spielerischen Mitteln, um Themen greifbarer zu gestalten (z.B. Scrum Poker, Risk Storming, Domain Story Telling).
+"Das Thema ist so trocken!" Diese und ähnlich Antworten habe ich desöfteren von Entwicklern wahrgenommen. Da ich das Thema für sehr wichtig halte, habe ich mir Gedanken gemacht, wie man das Qualitätsszenarien interessanter vermitteln kann. Mein Umfeld arbeit häufig mit spielerischen Mitteln, um Themen greifbarer zu gestalten. Also habe ich mich durch Scrum Poker, Risk Storming, Domain Story Telling u.ä. inspirieren lassen.
 
 ## Game of Quality
 
-In dem Game of Quality geht es darum, die Qualitätsszenarien für ein IT-System in einer Gruppe von Workshop Teilnehmern zu erarbeiten. Dadurch soll ein gemeinsames Verständnis für die zu erreichende oder auch notwendige Qualität entstehen.
+In dem Game of Quality geht es darum, die Qualitätsszenarien für ein IT-System mit einer Gruppe von Workshop Teilnehmern zu erarbeiten. Dadurch soll ein gemeinsames Verständnis für die zu erreichende Qualität des IT-Systems entstehen (Klebezettel in gelb):
 
 [![Game of Quality Workshop](/assets/developing-quality-scenarios-workshop.jpg)](/assets/developing-quality-scenarios-workshop.jpg)
 
@@ -25,7 +25,7 @@ Im ersten Schritt sammeln die Workshop Teilnehmer die Geschäftsziele des IT-Sys
 
 ## Stakeholder
 
-Im zweiten Schritt identifzieren die Workshop Teilnehmer die Stakeholder, die Berührungspunkte mit dem IT-System haben. Sie stellen Anforderungen explizit oder implizit an das System. Die grünen Inspirationskarten stellen mögliche Stakeholder dar und sollen die Diskussion zwischen den Teilnehmern anregen. Die Karten werden verteilt und abwechselnd legen die Teilnehmer einen relevanten Stakeholder in die Mitte des Plans. Sie erläutern beim Ablegen warum der jeweilige Stakeholder wichtig ist.
+Im zweiten Schritt identifzieren die Workshop Teilnehmer die Stakeholder, die Berührungspunkte mit dem IT-System haben. Sie stellen Anforderungen explizit oder implizit an das System. Die grünen Inspirationskarten stellen mögliche Stakeholder dar und sollen die Diskussion zwischen den Teilnehmern anregen. Die Karten werden verteilt und abwechselnd legen die Teilnehmer einen relevanten Stakeholder in die Mitte des Quality Circles. Sie erläutern beim Ablegen warum der jeweilige Stakeholder für das IT-System relevant ist.
 
 ## Qualitätsattribute
 
