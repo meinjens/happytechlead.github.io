@@ -29,7 +29,7 @@ Im zweiten Schritt identifzieren die Workshop Teilnehmer die Stakeholder, die Be
 
 ## Qualitätsattribute
 
-Im dritten Schritt bestimmen die Workshop Teilnehmer die Qualitätsattribute, die notwendig sind, damit das IT-System die Geschäftsziele für die Stakeholder erreichen kann. Die blauen Inspirationskarten sollen dabei helfen die richtigen Attribute auszuwählen. In mehreren Iterationen wählen die Teilnehmer alle relevanten Attribute aus und platzieren sie im Quality Circle, sofern sie der Zielerreichung dienen. Alle Übrigen platzieren sie außerhalb. So sind sie immer noch sichtbar. In mehreren Runden diskutieren die Teilnehmer die verschiedenen Attribute und ihre Relevanz.
+Im dritten Schritt bestimmen die Workshop Teilnehmer die Qualitätsattribute, die implizit oder explizit von den Stakeholdern gefordert werden, damit das IT-System die Geschäftsziele unterstützen kann. Die blauen Inspirationskarten sollen dabei helfen die passenden Attribute zu finden. In mehreren Iterationen wählen die Teilnehmer alle relevanten Attribute aus und platzieren sie im Quality Circle, sofern sie der Zielerreichung dienen. Alle Übrigen platzieren sie außerhalb. So sind sie immer noch sichtbar. In mehreren Runden diskutieren die Teilnehmer die verschiedenen Attribute und ihre Relevanz.
 
 ## Priorisierung
 
