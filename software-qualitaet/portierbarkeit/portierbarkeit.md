@@ -13,3 +13,5 @@ Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer b
 
 [Austauschbarkeit]({% link software-qualitaet/portierbarkeit/austauschbarkeit.md %})
 Grad, in dem ein Produkt ein anderes bestimmtes Softwareprodukt für denselben Zweck in derselben Umgebung ersetzen kann.
+
+## Taktiken
