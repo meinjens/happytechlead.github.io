@@ -4,7 +4,7 @@ title: Kapazität
 permalink: /softwarequality/performanz-effizienz/kapazitaet
 ---
 
-Capacity. Degree to which the maximum limits of a product or system parameter meet requirements.
+Grad, in dem die Höchstgrenzen eines Produkt- oder Systemparameters den Anforderungen entsprechen.
 
 ## Taktiken
 
@@ -12,6 +12,9 @@ Capacity. Degree to which the maximum limits of a product or system parameter me
 
 ## Praktiken
 
-* Lasttests
+* Regelmäßige Lasttests
 
 ## Wechselwirkungen mit anderen NFAs
+
+* Geringe Kapazität -> Geringes Antwortverhalten -> Bedienbarkeit -> Akzeptanz
+* Hohe Kapazität -> Hohe Ressourcenverbrauch

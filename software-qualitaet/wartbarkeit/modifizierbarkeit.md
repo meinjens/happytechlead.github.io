@@ -4,10 +4,10 @@ title: Modifizierbarkeit
 permalink: /software-qualitaet/wartbarkeit/modifizierbarkeit
 ---
 
-Degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality.
+Grad, in dem ein Produkt oder System effektiv und effizient modifiziert werden kann, ohne dass Mängel auftreten oder die vorhandene Produktqualität beeinträchtigt wird.
 
-## Takiken
+## Taktiken & Praktiken
 
-## Praktiken
 
 ## Wechselwirkungen zu anderen NFAs
+

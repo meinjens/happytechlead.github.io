@@ -4,4 +4,19 @@ title: Installierbarkeit
 permalink: /software-qualitaet/portierbarkeit/installierbarkeit
 ---
 
-Degree of effectiveness and efficiency with which a product or system can be successfully installed and/or uninstalled in a specified environment.
+Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer bestimmten Umgebung erfolgreich installiert und / oder deinstalliert werden kann.
+
+## Taktiken
+
+* Regelmäßiges automatisiertes Installieren des Produktes / Systems auf verschiedenen Zielsystemen
+
+## Praktiken
+
+* Infrastructure as Code
+* Automatisierte Installation
+* Continous Deployment
+
+## Wechselwirkungen zu anderen NFAs
+
+* Geringe Installierbarkeit -> Geringe Wiederherstellbarkeit
+* 

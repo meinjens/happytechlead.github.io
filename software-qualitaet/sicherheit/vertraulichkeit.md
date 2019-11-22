@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Vertrauchlichkeit
+title: Vertraulichkeit
 permalink: /software-qualitaet/sicherheit/vertraulichkeit
 ---
 
-Degree to which a product or system ensures that data are accessible only to those authorized to have access.
+Inwieweit ein Produkt oder System sicherstellt, dass Daten nur für diejenigen zugänglich sind, die zum Zugriff berechtigt sind.
+
+## Praktiken
+
+## Techniken
 
 ## Wechselwirkungen zu anderen NFAs
 

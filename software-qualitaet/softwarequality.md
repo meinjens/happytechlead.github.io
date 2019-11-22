@@ -4,7 +4,7 @@ title: Software Qualität
 permalink: /software-qualitaet
 ---
 
-## Qualitätsmerkmale und -attribute
+## Qualitätsmerkmale und -attribute aus der ISO 25010
 
 * [Funktionale Angemessenheit]({% link software-qualitaet/funktionale-angemessenheit/funktionale-angemessenheit.md %})
   * [Funktionale Eignung]({% link software-qualitaet/funktionale-angemessenheit/funktionale-eignung.md %})
@@ -46,3 +46,8 @@ permalink: /software-qualitaet
   * [Koexistenz]({% link software-qualitaet/kompatibilitaet/koexistenz.md %})
   * [Interoperabilität]({% link software-qualitaet/kompatibilitaet/interoperabilitaet.md %})
 
+## Quellen
+
+* [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
+* [Basiswissen für Software-Architekten](https://www.amazon.de/Basiswissen-f%C3%BCr-Softwarearchitekten-Weiterbildung-iSAQB-Standard/dp/3864904994/)
+* [Software Architecture in Practice](https://www.amazon.de/Software-Architecture-Practice-Sei-Engineering/dp/0321815734/)

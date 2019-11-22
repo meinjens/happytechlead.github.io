@@ -4,4 +4,13 @@ title: Erlernbarkeit
 permalink: /software-qualitaet/usability/erlernbarkeit
 ---
 
-Degree to which a product or system can be used by specified users to achieve specified goals of learning to use the product or system with effectiveness, efficiency, freedom from risk and satisfaction in a specified context of use.
+Grad, in dem ein Produkt oder System von bestimmten Benutzern verwendet werden kann, um bestimmte Lernziele für den Umgang mit dem Produkt oder System mit Wirksamkeit, Effizienz, Risikofreiheit und Zufriedenheit in einem bestimmten Anwendungskontext zu erreichen.
+
+## Taktiken
+
+
+## Praktiken
+
+
+## Wechselwirkungen zu anderen NFAs
+

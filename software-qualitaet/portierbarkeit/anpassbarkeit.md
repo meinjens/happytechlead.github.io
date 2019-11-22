@@ -3,5 +3,18 @@ layout: page
 title: Anpassbarkeit
 permalink: /software-qualitaet/portierbarkeit/anpassbarkeit
 ---
-Degree to which a product or system can effectively and efficiently be adapted for different or evolving hardware, software or other operational or usage environments.
+Grad, in dem ein Produkt oder System effektiv und effizient an unterschiedliche oder sich entwickelnde Hardware, Software oder andere Betriebs- oder Nutzungsumgebungen angepasst werden kann.
+
+## Taktiken
+
+* Testlabor für verschiedene Endgeräte
+
+## Praktiken
+
+* Prüfstände mit Systemtests
+* Konfiguration
+* Mandantenfähigkeit
+* Konfiguration als Service
+
+## Wechselwirkungen zu anderen NFAs
 

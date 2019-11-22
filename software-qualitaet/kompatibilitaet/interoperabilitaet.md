@@ -4,13 +4,15 @@ title: Interoperabilität
 permalink: /software-qualitaet/kompatibilitaet/interoperabilitaet
 ---
 
-Degree to which two or more systems, products or components can exchange information and use the information that has been exchanged.
+Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen austauschen und die ausgetauschten Informationen verwenden können.
 
 ## Taktiken
 
 
 ## Praktiken
 
+* Consumer Driven Contract Testing
 
 ## Wechselwirkungen mit anderen NFAs
+
 

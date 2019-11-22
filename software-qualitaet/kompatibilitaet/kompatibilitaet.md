@@ -4,11 +4,10 @@ title: Kompatibilität
 permalink: /software-qualitaet/kompatibilitaet
 ---
 
-Degree to which a product, system or component can exchange information with other products, systems or components, and/or perform its required functions, while sharing the same hardware or software environment. This characteristic is composed of the following subcharacteristics:
+Grad, in dem ein Produkt, System oder eine Komponente Informationen mit anderen Produkten, Systemen oder Komponenten austauschen und / oder die erforderlichen Funktionen ausführen kann, während dieselbe Hardware- oder Softwareumgebung verwendet wird.
 
 [Koexistenz]({% link software-qualitaet/kompatibilitaet/koexistenz.md %})
- Degree to which a product can perform its required functions efficiently while sharing a common environment and resources with other products, without detrimental impact on any other product.
-
+Grad, in dem ein Produkt seine erforderlichen Funktionen effizient ausführen kann, während es eine gemeinsame Umgebung und Ressourcen mit anderen Produkten teilt, ohne dass sich dies nachteilig auf andere Produkte auswirkt.
 
 [Interoperabilität]({% link software-qualitaet/kompatibilitaet/interoperabilitaet.md %})
-Degree to which two or more systems, products or components can exchange information and use the information that has been exchanged.
+Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen austauschen und die ausgetauschten Informationen verwenden können.

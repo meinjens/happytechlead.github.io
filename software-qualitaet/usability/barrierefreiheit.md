@@ -4,20 +4,15 @@ title: Barrierefreiheit
 permalink: /software-qualitaet/usability/barrierefreiheit
 ---
 
-Fähigkeit eines Systems für Menschen mit Behinderung zugänglich zu sein
-
-Degree to which a product or system can be used by people with the widest range of characteristics and capabilities to achieve a specified goal in a specified context of use.
+Grad, in dem ein Produkt oder System von Personen mit den unterschiedlichsten Merkmalen und Fähigkeiten verwendet werden kann, um ein bestimmtes Ziel in einem bestimmten Verwendungskontext zu erreichen.
 
 ## Taktiken
 
-* Für welche Zielgruppe wird die Software entwickelt?
-* Welche Möglichkeiten soll das System bereitstellen, um
-  - die Wahrnehmung der Inhalte zu unterstützen?
-  - die Möglichkeiten in der Bedienbarkeit zu fördern?
-  - die Verständlichkeit des Systems deutlich zu machen?
 
 ## Praktiken
 
 * WCAG (Web Content Accessibility Guidelines) 1.0 und 2.1
 
 ## Wechselwirkungen zu anderen NFAs
+
+

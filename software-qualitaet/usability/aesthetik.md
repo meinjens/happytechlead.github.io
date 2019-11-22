@@ -4,4 +4,10 @@ title: Ästhetik
 permalink: /software-qualitaet/usability/aesthetik
 ---
 
-Degree to which a user interface enables pleasing and satisfying interaction for the user.
+Grad, in dem die Benutzeroberfläche eine ansprechende und zufriedenstellende Interaktion für den Benutzer ermöglicht.
+
+## Taktiken
+
+## Praktiken
+
+## Wechselwirkungen zu anderen NFAs

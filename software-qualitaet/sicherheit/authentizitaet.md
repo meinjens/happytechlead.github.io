@@ -4,4 +4,12 @@ title: Authentizität
 permalink: /software-qualitaet/sicherheit/authentizitaet
 ---
 
-Degree to which the identity of a subject or resource can be proved to be the one claimed.
+Inwieweit die Identität eines Subjekts oder einer Ressource als die behauptete Identität nachgewiesen werden kann.
+
+## Tatiken
+
+## Praktiken
+
+## Wechselwirkungen zu anderen NFAs
+
+

@@ -3,5 +3,12 @@ layout: page
 title: Verantwortlichkeit
 permalink: /software-qualitaet/sicherheit/verantwortlichkeit
 ---
+Grad, in dem die Aktionen einer Entität eindeutig auf die Entität zurückgeführt werden können.
 
-Degree to which the actions of an entity can be traced uniquely to the entity.
+## Taktiken
+
+
+## Praktiken
+
+
+## Wechselwirkungen zu anderen NFAs

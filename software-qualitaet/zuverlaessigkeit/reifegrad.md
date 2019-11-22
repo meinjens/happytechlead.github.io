@@ -4,15 +4,12 @@ title: Reifegrad
 permalink: /software-qualitaet/zuverlaessigkeit/reifegrad
 ---
 
-Degree to which a system, product or component meets needs for reliability under normal operation.
+Grad, in dem ein System, ein Produkt oder eine Komponente die Anforderungen an die Zuverlässigkeit im normalen Betrieb erfüllt.
 
-## Taktiken
+## Taktiken & Praktiken
 
 * Fehler und Fehlerpotentiale erkennen und behandeln
 * Risikomanagement
-
-## Praktiken
-
 * Testabdeckung erhöhen
 * Externes Monitoring
 * Root Cause Analyse bei Fehlern

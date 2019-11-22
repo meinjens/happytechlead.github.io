@@ -4,15 +4,12 @@ title: Wiederherstellbarkeit
 permalink: /software-qualitaet/zuverlaessigkeit/wiederherstellbarkeit
 ---
 
-Degree to which, in the event of an interruption or a failure, a product or system can recover the data directly affected and re-establish the desired state of the system.
+Grad, in dem ein Produkt oder System im Falle einer Unterbrechung oder eines Ausfalls die direkt betroffenen Daten wiederherstellen und den gewünschten Zustand des Systems wiederherstellen kann.
 
-## Taktiken
+## Taktiken & Praktiken
 
 * Regelmäßiges Training der Wiederherstellbarkeit, um die Vollständigkeit der Wiederherstellung zu prüfen.
 * Automatisierung der Wiederherstellung
-
-## Praktiken
-
 * Backup
 * Blue / Green
 * Standby

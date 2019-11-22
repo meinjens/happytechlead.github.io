@@ -3,13 +3,13 @@ layout: page
 title: Portierbarkeit
 permalink: /software-qualitaet/portierbarkeit
 ---
+Effektivitäts- und Effizienzgrad, mit dem ein System, Produkt oder eine Komponente von einer Hardware, Software oder einer anderen Betriebs- oder Nutzungsumgebung in eine andere übertragen werden kann.
 
-Degree of effectiveness and efficiency with which a system, product or component can be transferred from one hardware, software or other operational or usage environment to another. This characteristic is composed of the following subcharacteristics:
-
-[Anpassbarkeit]({% link software-qualitaet/portierbarkeit/anpassbarkeit.md %}). Degree to which a product or system can effectively and efficiently be adapted for different or evolving hardware, software or other operational or usage environments.
+[Anpassbarkeit]({% link software-qualitaet/portierbarkeit/anpassbarkeit.md %})
+Grad, in dem ein Produkt oder System effektiv und effizient an unterschiedliche oder sich entwickelnde Hardware, Software oder andere Betriebs- oder Nutzungsumgebungen angepasst werden kann.
 
 [Installierbarkeit]({% link software-qualitaet/portierbarkeit/installierbarkeit.md %})
-Degree of effectiveness and efficiency with which a product or system can be successfully installed and/or uninstalled in a specified environment.
+Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer bestimmten Umgebung erfolgreich installiert und / oder deinstalliert werden kann.
 
 [Austauschbarkeit]({% link software-qualitaet/portierbarkeit/austauschbarkeit.md %})
-Degree to which a product can replace another specified software product for the same purpose in the same environment.
+Grad, in dem ein Produkt ein anderes bestimmtes Softwareprodukt für denselben Zweck in derselben Umgebung ersetzen kann.

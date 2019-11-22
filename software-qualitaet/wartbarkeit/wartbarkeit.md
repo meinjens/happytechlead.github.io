@@ -4,19 +4,34 @@ title: Wartbarkeit
 permalink: /software-qualitaet/wartbarkeit
 ---
 
-This characteristic represents the degree of effectiveness and efficiency with which a product or system can be modified to improve it, correct it or adapt it to changes in environment, and in requirements. This characteristic is composed of the following subcharacteristics:
+Dieses Merkmal gibt den Grad an Effektivität und Effizienz an, mit dem ein Produkt oder System modifiziert werden kann, um es zu verbessern, zu korrigieren oder an Änderungen in der Umgebung und in den Anforderungen anzupassen.
 
 [Modularisierung]({% link software-qualitaet/wartbarkeit/modularisierung.md %})
-Degree to which a system or computer program is composed of discrete components such that a change to one component has minimal impact on other components.
+Grad, in dem ein System oder Computerprogramm aus diskreten Komponenten besteht, sodass eine Änderung an einer Komponente nur minimale Auswirkungen auf andere Komponenten hat.
 
 [Wiederverwendbarkeit]({% link software-qualitaet/wartbarkeit/wiederverwendbarkeit.md %})
-Degree to which an asset can be used in more than one system, or in building other assets.
+Grad, in dem ein Asset in mehr als einem System oder beim Erstellen anderer Assets verwendet werden kann.
 
 [Analysierbarkeit]({% link software-qualitaet/wartbarkeit/analysierbarkeit.md %})
-Degree of effectiveness and efficiency with which it is possible to assess the impact on a product or system of an intended change to one or more of its parts, or to diagnose a product for deficiencies or causes of failures, or to identify parts to be modified.
+Grad der Wirksamkeit und Effizienz, mit dem es möglich ist, die Auswirkungen einer beabsichtigten Änderung eines oder mehrerer seiner Teile auf ein Produkt oder ein System zu bewerten oder ein Produkt auf Mängel oder Fehlerursachen zu diagnostizieren oder zu ändernde Teile zu identifizieren.
 
 [Modifizierbarkeit]({% link software-qualitaet/wartbarkeit/modifizierbarkeit.md %})
-Degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality.
+Grad, in dem ein Produkt oder System effektiv und effizient modifiziert werden kann, ohne dass Mängel auftreten oder die vorhandene Produktqualität beeinträchtigt wird.
 
 [Testability]({% link software-qualitaet/wartbarkeit/testbarkeit.md %})
-Degree of effectiveness and efficiency with which test criteria can be established for a system, product or component and tests can be performed to determine whether those criteria have been met.
+Effektivitäts- und Effizienzgrad, mit dem Testkriterien für ein System, ein Produkt oder eine Komponente festgelegt und Tests durchgeführt werden können, um festzustellen, ob diese Kriterien erfüllt wurden.
+
+## Taktiken
+
+* Größe von Modulen reduzieren
+  * Modul teilen
+  * Verantwortlichkeiten aufteilen
+* Kohäsion erhöhen
+  * Inneren semantischen Zusammenhang erhöhen
+* Kopplung reduzieren
+  * Kapselung
+  * Vermittler verwenden
+  * Abhängigkeiten begrenzen
+  * Refactoring
+  * Allgemeine Services abstrahieren
+* Bindung verschieben

@@ -3,17 +3,53 @@ layout: page
 title: Zuverlässigkeit
 permalink: /software-qualitaet/zuverlaessigkeit
 ---
-
-Degree to which a system, product or component performs specified functions under specified conditions for a specified period of time. This characteristic is composed of the following subcharacteristics:
+Grad, in dem ein System, Produkt oder eine Komponente bestimmte Funktionen unter bestimmten Bedingungen für einen bestimmten Zeitraum ausführt.
 
 [Reifegrad]({% link software-qualitaet/zuverlaessigkeit/reifegrad.md %})
-Degree to which a system, product or component meets needs for reliability under normal operation.
+Grad, in dem ein System, ein Produkt oder eine Komponente die Anforderungen an die Zuverlässigkeit im normalen Betrieb erfüllt.
 
 [Verfügbarkeit]({% link software-qualitaet/zuverlaessigkeit/verfuegbarkeit.md %})
-Degree to which a system, product or component is operational and accessible when required for use.
+Grad, in dem ein System, ein Produkt oder eine Komponente betriebsbereit ist und bei Bedarf zur Verwendung verfügbar ist.
 
 [Fehlertoleranz]({% link software-qualitaet/zuverlaessigkeit/fehlertoleranz.md %})
-Degree to which a system, product or component operates as intended despite the presence of hardware or software faults.
+Grad, in dem ein System, Produkt oder eine Komponente trotz Hardware- oder Softwarefehlern bestimmungsgemäß funktioniert.
 
 [Wiederherstellbarkeit]({% link software-qualitaet/zuverlaessigkeit/wiederherstellbarkeit.md %})
-Degree to which, in the event of an interruption or a failure, a product or system can recover the data directly affected and re-establish the desired state of the system.
+Grad, in dem ein Produkt oder System im Falle einer Unterbrechung oder eines Ausfalls die direkt betroffenen Daten wiederherstellen und den gewünschten Zustand des Systems wiederherstellen kann.
+
+## Taktiken
+
+* Fehlererkennung
+  * Ping / Echo
+  * Monitor
+  * Heartbeat
+  * Timestamp
+  * Sanity Checking
+  * Condition Monitoring
+  * Voting
+  * Exception Detection
+  * Self-Test
+* Wiederherstellung nach Fehlern
+  * Vorbereitung und Reparatur
+    * Aktive Redundanz (Hot Swap)
+    * Passive Redundanz (Warm Standby)
+    * Cold Stand By
+    * Exception Handling
+    * Rollback
+    * Backup / Restore
+    * Software Upgrade
+    * Retry
+    * Fehlerhaftes Verhalten ignorieren
+    * Abbau
+    * Rekonfiguration
+  * Wiedereinführung
+    * Schattenkopie 
+    * State Resynchronisierung
+    * Eskalation Restart
+    * Non-Stop Forwarding
+* Fehlervermeidung
+  * Service entfernen
+  * Transaktionen
+  * Vorhersagbares Model
+  * Vorbeugung von Ausnahmen
+  * Handlungsspielraum erhöhen

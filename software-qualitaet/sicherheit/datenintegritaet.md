@@ -4,7 +4,15 @@ title: Datenintegrität
 permalink: /software-qualitaet/sicherheit/datenintegritaet
 ---
 
-Degree to which a system, product or component prevents unauthorized access to, or modification of, computer programs or data.
+Grad, in dem ein System, Produkt oder eine Komponente den unbefugten Zugriff auf oder die Änderung von Computerprogrammen oder Daten verhindert.
 
+## Tatiken
+
+## Praktiken
+
+* Verschlüsselung vom Datentransport
+* Verschlüsselung von Daten
 
 ## Wechselwirkungen zu anderen NFAs
+
+* Analysierbarkeit erschwert bei hoher Datenintegrität

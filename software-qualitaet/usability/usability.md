@@ -3,24 +3,36 @@ layout: page
 title: Usability
 permalink: /software-qualitaet/usability
 ---
+Grad, in dem ein Produkt oder System von bestimmten Benutzern verwendet werden kann, um bestimmte Ziele mit Effektivität, Effizienz und Zufriedenheit in einem bestimmten Verwendungskontext zu erreichen.
 
-
-Degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use. This characteristic is composed of the following subcharacteristics:
+## Untermerkmale
 
 [Verständlichkeit]({% link software-qualitaet/usability/verstaendlichkeit.md %})
-Degree to which users can recognize whether a product or system is appropriate for their needs.
+Grad, in dem Benutzer erkennen können, ob ein Produkt oder ein System für ihre Bedürfnisse geeignet ist.
 
 [Erlernbarkeit]({% link software-qualitaet/usability/erlernbarkeit.md %})
-Degree to which a product or system can be used by specified users to achieve specified goals of learning to use the product or system with effectiveness, efficiency, freedom from risk and satisfaction in a specified context of use.
+Grad, in dem ein Produkt oder System von bestimmten Benutzern verwendet werden kann, um bestimmte Lernziele für den Umgang mit dem Produkt oder System mit Wirksamkeit, Effizienz, Risikofreiheit und Zufriedenheit in einem bestimmten Anwendungskontext zu erreichen.
 
 [Bedienbarkeit]({% link software-qualitaet/usability/bedienbarkeit.md %})
-Degree to which a product or system has attributes that make it easy to operate and control.
+Grad, in dem ein Produkt oder ein System Merkmale aufweist, die die Bedienung und Steuerung vereinfachen.
 
 [Fehlervermeidung]({% link software-qualitaet/usability/fehlervermeidung.md %})
-Degree to which a system protects users against making errors.
+Grad, in dem der Benutzer davor bewahrt wird Fehler zu machen.
 
 [Ästhetik]({% link software-qualitaet/usability/aesthetik.md %})
-Degree to which a user interface enables pleasing and satisfying interaction for the user.
+Grad, in dem die Benutzeroberfläche eine ansprechende und zufriedenstellende Interaktion für den Benutzer ermöglicht.
 
 [Barrierefreiheit]({% link software-qualitaet/usability/barrierefreiheit.md %})
-Degree to which a product or system can be used by people with the widest range of characteristics and capabilities to achieve a specified goal in a specified context of use.
+Grad, in dem ein Produkt oder System von Personen mit den unterschiedlichsten Merkmalen und Fähigkeiten verwendet werden kann, um ein bestimmtes Ziel in einem bestimmten Verwendungskontext zu erreichen.
+
+## Taktiken
+
+* Support User Initiative
+  * Abbrechen
+  * Rückgängig
+  * Pausieren und Wiederaufnehmen
+  * Aggregieren
+* Support System Initiative
+  * Maintain Task model
+  * Maintain User model
+  * Maintain System model

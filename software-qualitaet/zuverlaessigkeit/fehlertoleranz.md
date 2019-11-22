@@ -4,16 +4,12 @@ title: Fehlertoleranz
 permalink: /software-qualitaet/zuverlaessigkeit/fehlertoleranz
 ---
 
-Degree to which a system, product or component operates as intended despite the presence of hardware or software faults
+Grad, in dem ein System, Produkt oder eine Komponente trotz Hardware- oder Softwarefehlern bestimmungsgemäß funktioniert.
 
-## Taktiken
+## Taktiken & Praktiken
 
 * Fail Fast
-
-## Praktiken
-
 * Resillience
-
 
 ## Wechselwirkungen mit anderen NFAs
 

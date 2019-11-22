@@ -4,4 +4,9 @@ title: Wiederverwendbarkeit
 permalink: /software-qualitaet/wartbarkeit/wiederverwendbarkeit
 ---
 
-Degree to which an asset can be used in more than one system, or in building other assets.
+Grad, in dem ein Asset in mehr als einem System oder beim Erstellen anderer Assets verwendet werden kann.
+
+## Taktiken & Praktiken
+
+
+## Wechselwirkungen zu anderen NFAs

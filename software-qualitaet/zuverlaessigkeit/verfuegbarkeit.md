@@ -4,17 +4,14 @@ title: Verfuegbarkeit
 permalink: /software-qualitaet/zuverlaessigkeit/verfuegbarkeit
 ---
 
-Degree to which a system, product or component is operational and accessible when required for use.
+Grad, in dem ein System, ein Produkt oder eine Komponente betriebsbereit ist und bei Bedarf zur Verwendung verfügbar ist.
 
-## Taktiken
+## Taktiken & Praktiken
 
 
 
-## Praktiken
-
-* Clustering
-* Multi-Hosting / -Clouding
 
 ## Wechselwirkungen mit anderen NFAs
 
 * Geringe Verfügbarkeit -> Fehler -> Ausfall -> Wirtschaftlicher Schaden
+* Hohe Verfügbarkeit -> Hoher Ressourcenverbrauch
