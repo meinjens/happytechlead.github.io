@@ -9,8 +9,6 @@ Grad, in dem Benutzer erkennen können, ob ein Produkt oder ein System für ihre
 
 * Frühes Feedback von den Benutzern einholen.
 
-## Praktiken
-
 * Lean Product Development
 * A/B-Test
 * Prototyping

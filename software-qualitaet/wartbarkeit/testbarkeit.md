@@ -5,7 +5,7 @@ permalink: /software-qualitaet/wartbarkeit/testbarkeit
 ---
 Effektivitäts- und Effizienzgrad, mit dem Testkriterien für ein System, ein Produkt oder eine Komponente festgelegt und Tests durchgeführt werden können, um festzustellen, ob diese Kriterien erfüllt wurden.
 
-## Taktiken & Praktiken
+## Taktiken
 
 * 100% - Testabdeckung = Risiko für wirtschaftlichen Schaden
 * Acceptance Tests

@@ -9,9 +9,6 @@ Grad, in dem ein Produkt seine erforderlichen Funktionen effizient ausführen ka
 ## Taktiken
 
 * Trennung von Daten und Verhalten
-
-## Praktiken
-
 * Mandantenfähigkeit
 * Context-sensitiv 
 

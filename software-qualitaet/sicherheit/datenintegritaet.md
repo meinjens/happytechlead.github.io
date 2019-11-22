@@ -8,8 +8,6 @@ Grad, in dem ein System, Produkt oder eine Komponente den unbefugten Zugriff auf
 
 ## Tatiken
 
-## Praktiken
-
 * Verschlüsselung vom Datentransport
 * Verschlüsselung von Daten
 

@@ -8,6 +8,5 @@ Grad, in dem die Benutzeroberfläche eine ansprechende und zufriedenstellende In
 
 ## Taktiken
 
-## Praktiken
 
 ## Wechselwirkungen zu anderen NFAs

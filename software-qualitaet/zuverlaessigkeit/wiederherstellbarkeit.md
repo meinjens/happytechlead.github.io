@@ -6,7 +6,7 @@ permalink: /software-qualitaet/zuverlaessigkeit/wiederherstellbarkeit
 
 Grad, in dem ein Produkt oder System im Falle einer Unterbrechung oder eines Ausfalls die direkt betroffenen Daten wiederherstellen und den gewünschten Zustand des Systems wiederherstellen kann.
 
-## Taktiken & Praktiken
+## Taktiken
 
 * Regelmäßiges Training der Wiederherstellbarkeit, um die Vollständigkeit der Wiederherstellung zu prüfen.
 * Automatisierung der Wiederherstellung

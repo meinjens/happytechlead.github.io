@@ -8,8 +8,6 @@ Inwieweit die Identität eines Subjekts oder einer Ressource als die behauptete 
 
 ## Tatiken
 
-## Praktiken
-
 ## Wechselwirkungen zu anderen NFAs
 
 

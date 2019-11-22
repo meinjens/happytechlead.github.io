@@ -8,9 +8,6 @@ Grad, in dem ein Produkt oder System von Personen mit den unterschiedlichsten Me
 
 ## Taktiken
 
-
-## Praktiken
-
 * WCAG (Web Content Accessibility Guidelines) 1.0 und 2.1
 
 ## Wechselwirkungen zu anderen NFAs

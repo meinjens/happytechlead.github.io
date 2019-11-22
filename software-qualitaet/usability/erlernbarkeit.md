@@ -9,8 +9,6 @@ Grad, in dem ein Produkt oder System von bestimmten Benutzern verwendet werden k
 ## Taktiken
 
 
-## Praktiken
-
 
 ## Wechselwirkungen zu anderen NFAs
 

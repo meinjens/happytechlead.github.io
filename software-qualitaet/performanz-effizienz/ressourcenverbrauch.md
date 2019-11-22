@@ -9,9 +9,6 @@ Grad, in dem die Mengen und Arten von Ressourcen, die von einem Produkt oder Sys
 ## Taktiken
 
 * Regelmäßiger möglichst automatisierter Abgleich von Bedarf und Soll 
-
-## Praktiken
-
 * Auto-Scaling von Ressourcen
 
 ## Wechselwirkungen mit anderen NFAs

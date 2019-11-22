@@ -9,9 +9,6 @@ Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer b
 ## Taktiken
 
 * Regelmäßiges automatisiertes Installieren des Produktes / Systems auf verschiedenen Zielsystemen
-
-## Praktiken
-
 * Infrastructure as Code
 * Automatisierte Installation
 * Continous Deployment

@@ -7,9 +7,6 @@ Inwieweit kann nachgewiesen werden, dass Aktionen oder Ereignisse stattgefunden 
 
 ## Taktiken
 
-
-## Praktiken
-
 * Auditierung
 * Protokollierung von Zugriffen
 

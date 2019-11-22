@@ -9,8 +9,6 @@ Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen aus
 ## Taktiken
 
 
-## Praktiken
-
 * Consumer Driven Contract Testing
 
 ## Wechselwirkungen mit anderen NFAs

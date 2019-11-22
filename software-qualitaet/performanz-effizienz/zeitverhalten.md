@@ -10,8 +10,6 @@ Grad, in dem die Reaktions- und Verarbeitungszeiten sowie die Durchsatzraten ein
 
 * Frühes und regelmäßiges Messen der Performance, um Veränderungen frühzeitig zu erkennen und angemessen reagieren zu können.
 
-## Praktiken
-
 * Performance Testing für das gesamte System
 * Analyse mit Hilfe von Profiling
 * Horizontale Skalierung (Nodes)

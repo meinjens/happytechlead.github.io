@@ -8,7 +8,5 @@ Grad, in dem ein Produkt oder ein System Merkmale aufweist, die die Bedienung un
 ## Taktiken
 
 
-## Praktiken
-
 
 ## Wechselwirkungen zu anderen NFAs

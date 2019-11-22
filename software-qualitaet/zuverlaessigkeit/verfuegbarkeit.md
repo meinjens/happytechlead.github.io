@@ -6,7 +6,7 @@ permalink: /software-qualitaet/zuverlaessigkeit/verfuegbarkeit
 
 Grad, in dem ein System, ein Produkt oder eine Komponente betriebsbereit ist und bei Bedarf zur Verwendung verfügbar ist.
 
-## Taktiken & Praktiken
+## Taktiken
 
 
 

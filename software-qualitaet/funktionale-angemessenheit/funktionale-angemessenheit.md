@@ -14,3 +14,5 @@ Grad, in dem ein Produkt oder System die richtigen Ergebnisse mit der erforderli
 
 [Funktionale Eignung]({% link software-qualitaet/funktionale-angemessenheit/funktionale-eignung.md %})
 Grad, in dem die Funktion die Erreichung der bestimmten Aufgaben und Ziele geeignet.
+
+## Taktiken

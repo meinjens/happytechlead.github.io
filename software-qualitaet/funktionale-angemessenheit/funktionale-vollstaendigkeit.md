@@ -10,8 +10,6 @@ Grad, in dem der Funktionsumfang alle festgelegten Aufgaben und Benutzerziele ab
 
 * Erarbeitung der Geschäftsziele
 
-## Praktiken
-
 * Produkt- und Marktstrategie
 * Vision
 * Geschäftsziele

@@ -9,9 +9,6 @@ Grad, in dem die Funktionen für die Erreichung der bestimmten Aufgaben und Ziel
 ## Taktiken
 
 * Frühes Feedback vom Benutzer des Software Systems
-
-## Praktiken
-
 * Webtracking, um festzustellen ob der Nutzer gleich wieder abspringt
 
 

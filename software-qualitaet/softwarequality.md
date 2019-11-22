@@ -4,7 +4,7 @@ title: Software Qualität
 permalink: /software-qualitaet
 ---
 
-## Qualitätsmerkmale und -attribute aus der ISO 25010
+## Qualitätsmerkmale und -attribute
 
 * [Funktionale Angemessenheit]({% link software-qualitaet/funktionale-angemessenheit/funktionale-angemessenheit.md %})
   * [Funktionale Eignung]({% link software-qualitaet/funktionale-angemessenheit/funktionale-eignung.md %})
@@ -48,6 +48,9 @@ permalink: /software-qualitaet
 
 ## Quellen
 
+Folgende Quellen habe ich zur Erarbeitung der Karten für das [Game of Quality]({% post_url 2019-10-19-game-of-quality %}) herangezogen:
+
 * [ISO 25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
 * [Basiswissen für Software-Architekten](https://www.amazon.de/Basiswissen-f%C3%BCr-Softwarearchitekten-Weiterbildung-iSAQB-Standard/dp/3864904994/)
 * [Software Architecture in Practice](https://www.amazon.de/Software-Architecture-Practice-Sei-Engineering/dp/0321815734/)
+* [Wikipedia: List of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)

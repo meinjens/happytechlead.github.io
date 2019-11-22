@@ -10,8 +10,6 @@ Grad, in dem ein Produkt ein anderes bestimmtes Softwareprodukt für denselben Z
 
 * Treffen von teuren Entscheidungen so spät wie möglich, damit die Anforderungen dazu möglichst gut bekannt sind.
 
-## Praktiken
-
 * Entkopplung der Software von 3rd Party Produkten
 * Entkopplung von Frameworks und Bibliotheken
 

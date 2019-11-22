@@ -8,7 +8,4 @@ Grad, in dem die Aktionen einer Entität eindeutig auf die Entität zurückgefü
 ## Taktiken
 
 
-## Praktiken
-
-
 ## Wechselwirkungen zu anderen NFAs
