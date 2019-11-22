@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Reifegrad
-permalink: /softwarequality/zuverlaessigkeit/reifegrad
+permalink: /software-qualitaet/zuverlaessigkeit/reifegrad
 ---
-
-## Reifegrad
 
 Degree to which a system, product or component meets needs for reliability under normal operation.
 

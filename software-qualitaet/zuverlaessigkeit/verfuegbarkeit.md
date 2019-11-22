@@ -1,19 +1,20 @@
 ---
 layout: page
 title: Verfuegbarkeit
-permalink: /softwarequality/zuverlaessigkeit/verfuegbarkeit
+permalink: /software-qualitaet/zuverlaessigkeit/verfuegbarkeit
 ---
 
-## Fehlertoleranz
-
-Fault tolerance. Degree to which a system, product or component operates as intended despite the presence of hardware or software faults
+Degree to which a system, product or component is operational and accessible when required for use.
 
 ## Taktiken
 
-* Fail Fast
+
 
 ## Praktiken
 
-
+* Clustering
+* Multi-Hosting / -Clouding
 
 ## Wechselwirkungen mit anderen NFAs
+
+* Geringe Verfügbarkeit -> Fehler -> Ausfall -> Wirtschaftlicher Schaden

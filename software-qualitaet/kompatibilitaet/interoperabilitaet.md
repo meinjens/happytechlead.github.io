@@ -1,7 +1,16 @@
 ---
 layout: page
 title: Interoperabilität
-permalink: /softwarequality/kompatibilitaet/interoperabilitaet
+permalink: /software-qualitaet/kompatibilitaet/interoperabilitaet
 ---
 
-Interoperability. Degree to which two or more systems, products or components can exchange information and use the information that has been exchanged.
+Degree to which two or more systems, products or components can exchange information and use the information that has been exchanged.
+
+## Taktiken
+
+
+## Praktiken
+
+
+## Wechselwirkungen mit anderen NFAs
+

@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Fehlertoleranz
-permalink: /softwarequality/zuverlaessigkeit/fehlertoleranz
+permalink: /software-qualitaet/zuverlaessigkeit/fehlertoleranz
 ---
 
-## Fehlertoleranz
-
-Fault tolerance. Degree to which a system, product or component operates as intended despite the presence of hardware or software faults
+Degree to which a system, product or component operates as intended despite the presence of hardware or software faults
 
 ## Taktiken
 
@@ -14,6 +12,8 @@ Fault tolerance. Degree to which a system, product or component operates as inte
 
 ## Praktiken
 
+* Resillience
 
 
 ## Wechselwirkungen mit anderen NFAs
+
