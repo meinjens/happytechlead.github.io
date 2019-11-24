@@ -36,3 +36,8 @@ Grad, in dem ein Produkt oder System von Personen mit den unterschiedlichsten Me
   * Maintain Task model
   * Maintain User model
   * Maintain System model
+
+
+## Wechselwirkungen zu anderen NFAs
+
+* Hohe Anforderungen an die Sicherheit wirkt sich meist negativ auf die Usability aus

@@ -8,8 +8,11 @@ Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen aus
 
 ## Taktiken
 
-
-* Consumer Driven Contract Testing
+* Entwurf
+  * Verwendung von Standard Schnittstellen Protokollen und Austauschformaten
+* Überprüfung
+  * Consumer Driven Contract Testing
+ 
 
 ## Wechselwirkungen mit anderen NFAs
 

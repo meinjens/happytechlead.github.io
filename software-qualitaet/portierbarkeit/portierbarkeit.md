@@ -15,3 +15,7 @@ Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer b
 Grad, in dem ein Produkt ein anderes bestimmtes Softwareprodukt für denselben Zweck in derselben Umgebung ersetzen kann.
 
 ## Taktiken
+
+## Wechselwirkungen zu anderen NFAs
+
+* Hohe Portierbarkeit wirkt gegen die Einfachheit

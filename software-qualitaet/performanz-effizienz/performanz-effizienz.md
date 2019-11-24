@@ -30,3 +30,7 @@ Grad, in dem die Höchstgrenzen eines Produkt- oder Systemparameters den Anforde
   * Verteilung der Berechnung auf mehrere Knoten
   * Verteilung der Speicherung (Caching)
   * Ressourceneinsatz planen
+
+## Wechselwirkungen zu anderen NFAs
+
+* Hohe Effizienz wirkt der Wartbarkeit entgegen

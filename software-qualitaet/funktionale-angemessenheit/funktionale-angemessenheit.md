@@ -4,7 +4,7 @@ title: Funktionale Angemessenheit
 permalink: /software-qualitaet/funktionale-angemessenheit
 ---
 
-Die funktionale Angemessenheit beschreibt den Grad in dem das Software System den spezifizierten und implizierten Anforderungen genügt. Es besteht aus den folgenden Attributen:
+Die funktionale Angemessenheit beschreibt den Grad in dem das Software System den spezifizierten und implizierten Anforderungen genügt.
 
 [Funktionale Vollständigkeit]({% link software-qualitaet/funktionale-angemessenheit/funktionale-vollstaendigkeit.md %})
 Grad, in dem der Funktionsumfang alle festgelegten Aufgaben und Benutzerziele abdeckt.
@@ -16,3 +16,13 @@ Grad, in dem ein Produkt oder System die richtigen Ergebnisse mit der erforderli
 Grad, in dem die Funktion die Erreichung der bestimmten Aufgaben und Ziele geeignet.
 
 ## Taktiken
+
+* Frühes Feedback
+  * Interview der Stakeholder
+  * Usability Labs
+  * Kleine und regelmäßige Releases
+* Funktionales Monitoring
+  * Analyse des Nutzerverhaltens
+  * Nutzerbefragungen
+* Hohe Testabdeckung
+  * Testpyramide gleichmäßig ausgefüllt

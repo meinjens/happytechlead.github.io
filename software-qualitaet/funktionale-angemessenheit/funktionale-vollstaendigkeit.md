@@ -8,12 +8,11 @@ Grad, in dem der Funktionsumfang alle festgelegten Aufgaben und Benutzerziele ab
 
 ## Taktiken
 
-* Erarbeitung der Geschäftsziele
-
-* Produkt- und Marktstrategie
-* Vision
-* Geschäftsziele
+* Untersuchen
+  * Nutzerverhalten
+  * Conversion Rate
+* Anpassen
+  * Product Canvas
 
 ## Wechselwirkungen mit anderen NFAs
 
-n/a

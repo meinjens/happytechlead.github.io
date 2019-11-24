@@ -54,3 +54,4 @@ Folgende Quellen habe ich zur Erarbeitung der Karten für das [Game of Quality](
 * [Basiswissen für Software-Architekten](https://www.amazon.de/Basiswissen-f%C3%BCr-Softwarearchitekten-Weiterbildung-iSAQB-Standard/dp/3864904994/)
 * [Software Architecture in Practice](https://www.amazon.de/Software-Architecture-Practice-Sei-Engineering/dp/0321815734/)
 * [Wikipedia: List of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
+* [Mastering non-functional requirements](https://www.amazon.de/Mastering-Non-Functional-Requirements-architecture-assessment/dp/178829923X/)
