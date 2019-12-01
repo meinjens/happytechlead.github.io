@@ -8,8 +8,12 @@ Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen aus
 
 ## Taktiken
 
-* Entwurf
-  * Verwendung von Standard Schnittstellen Protokollen und Austauschformaten
+* Standardsoftware
+  * Einsatz von Standard Software
+* Implementierung
+  * Verwendung von Standard Struktur und Verhalten bei Schnittstellen (z.B. REST, SOAP, gRPC, etc.)
+  * Verwendung von Standard Protokollen (HTTP)
+  * Verwendung von Standard Formaten (JSON, XML, HTML)
 * Überprüfung
   * Consumer Driven Contract Testing
  
@@ -17,3 +21,6 @@ Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen aus
 ## Wechselwirkungen mit anderen NFAs
 
 
+## Weitere Merkmale
+
+* Nahtlosigkeit

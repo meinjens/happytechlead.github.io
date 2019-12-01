@@ -18,4 +18,4 @@ Grad, in dem ein Produkt ein anderes bestimmtes Softwareprodukt für denselben Z
 
 ## Wechselwirkungen zu anderen NFAs
 
-* Hohe Portierbarkeit wirkt gegen die Einfachheit
+* Hohe Portierbarkeit wirkt gegen die Wartbarkeit

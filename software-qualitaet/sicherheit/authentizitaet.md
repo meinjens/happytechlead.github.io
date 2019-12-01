@@ -10,4 +10,4 @@ Inwieweit die Identität eines Subjekts oder einer Ressource als die behauptete 
 
 ## Wechselwirkungen zu anderen NFAs
 
-
+* Usability

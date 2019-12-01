@@ -10,3 +10,4 @@ Grad, in dem der Benutzer davor bewahrt wird Fehler zu machen.
 
 
 ## Wechselwirkungen zu anderen NFAs
+

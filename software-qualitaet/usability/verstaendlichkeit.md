@@ -11,7 +11,8 @@ Grad, in dem Benutzer erkennen können, ob ein Produkt oder ein System für ihre
 
 * Lean Product Development
 * A/B-Test
-* Prototyping
+* Rapid Prototyping
+* Design Thinking
 
 ## Wechselwirkungen zu anderen NFAs
 

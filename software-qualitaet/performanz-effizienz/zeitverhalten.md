@@ -10,10 +10,13 @@ Grad, in dem die Reaktions- und Verarbeitungszeiten sowie die Durchsatzraten ein
 
 * Frühes und regelmäßiges Messen der Performance, um Veränderungen frühzeitig zu erkennen und angemessen reagieren zu können.
 
-* Performance Testing für das gesamte System
-* Analyse mit Hilfe von Profiling
-* Horizontale Skalierung (Nodes)
-* Vertikale Skalierung (CPU, RAM)
+* Messung
+  * Automatisiertes Performance Testing für das gesamte System
+  * Analyse mit Hilfe von Profiling
+* Anpassung
+  * Automatisierte Skalierung
+  * Horizontale Skalierung (Nodes)
+  * Vertikale Skalierung (CPU, RAM)
 
 ## Wechselwirkungen mit anderen NFAs
 

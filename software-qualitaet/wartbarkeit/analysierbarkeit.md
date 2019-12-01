@@ -8,13 +8,27 @@ Grad der Wirksamkeit und Effizienz, mit dem es möglich ist, die Auswirkungen ei
 
 ## Taktiken
 
-* Aussagekräftige Fehlermeldungen / Codes
-* Monitoring
-* Tracing
-* Logging
-* Debugging
+* Implementierung
+  * Aussagekräftige Fehlermeldungen / Codes
+  * Pair Programming
+  * Mob Programming
+* Continous Inspection
+  * Code Reviews
+  * Automatisierte Codeanalyse
+* Unterstützung der Analyse durch Werkzeuge
+  * Monitoring
+  * Tracing
+  * Logging
+  * Debugging
 
 ## Wechselwirkungen zu anderen NFAs
 
-* Hohe Analysierbarkeit -> Erschwert Sicherheit
+* Hohe Analysierbarkeit -> Erschwert Sicherheit und Performance & Effizienz
 * Hohe Verfügbarkeit -> Erschert Analysierbarkeit
+
+## Weitere Merkmalle
+
+* Allgegenwart
+* Monitorbarkeit
+* Debugbarkeit
+* Nachverfolgbarkeit

@@ -35,3 +35,4 @@ Effektivitäts- und Effizienzgrad, mit dem Testkriterien für ein System, ein Pr
   * Refactoring
   * Allgemeine Services abstrahieren
 * Bindung verschieben
+  * Frühe vs. Späte Bindung

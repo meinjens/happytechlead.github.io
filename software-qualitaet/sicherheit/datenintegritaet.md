@@ -13,4 +13,9 @@ Grad, in dem ein System, Produkt oder eine Komponente den unbefugten Zugriff auf
 
 ## Wechselwirkungen zu anderen NFAs
 
-* Analysierbarkeit erschwert bei hoher Datenintegrität
+* Analysierbarkeit
+
+## Weitere Merkmale
+
+* Auditierbarkeit
+* Revisionssicherheit

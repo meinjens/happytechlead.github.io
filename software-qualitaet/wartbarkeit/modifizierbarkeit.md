@@ -8,5 +8,14 @@ Grad, in dem ein Produkt oder System effektiv und effizient modifiziert werden k
 
 ## Taktiken
 
+* Entkopplung
+* 
+
 ## Wechselwirkungen zu anderen NFAs
 
+
+## Weitere Merkmale
+
+* Evolvierbarkeit
+* Managebarkeit
+* Administrierbarkeit

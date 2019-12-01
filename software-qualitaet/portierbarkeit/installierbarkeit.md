@@ -3,7 +3,6 @@ layout: page
 title: Installierbarkeit
 permalink: /software-qualitaet/portierbarkeit/installierbarkeit
 ---
-
 Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer bestimmten Umgebung erfolgreich installiert und / oder deinstalliert werden kann.
 
 ## Taktiken

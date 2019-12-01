@@ -9,3 +9,5 @@ Grad, in dem die Aktionen einer Entität eindeutig auf die Entität zurückgefü
 
 
 ## Wechselwirkungen zu anderen NFAs
+
+* Usability

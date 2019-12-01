@@ -14,3 +14,6 @@ Grad, in dem ein System oder Computerprogramm aus diskreten Komponenten besteht,
 
 ## Wechselwirkungen zu anderen NFAs
 
+## Weitere Merkmale
+
+* Wiederverwendung

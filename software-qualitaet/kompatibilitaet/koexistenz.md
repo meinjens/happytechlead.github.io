@@ -8,11 +8,19 @@ Grad, in dem ein Produkt seine erforderlichen Funktionen effizient ausführen ka
 
 ## Taktiken
 
-* Trennung von Daten und Verhalten
-* Mandantenfähigkeit
-* Context-sensitiv 
+* Gleiche Betriebsumgebung
+  * Trennung durch Kontext / Namensräume
+* Getrennte Betriebsumgebung
+  * Trennung durch Konfiguration
+* Kontextbasierte Ausführung / Mandantenfähigkeit
+  * Organisatorische Trennung
+  * Trennung der Daten
+  * Entkopplung von Verhalten
+* Trennung durch Konfiguration
+  * Trennung der Betriebsumgebung
 
 ## Wechselwirkungen mit anderen NFAs
 
 * Keine Datenintegrität -> Sicherheitsverletzungen bei in verschiedenen Mandanten
-
+* Hohe Koexistenz -> Hohe Anforderungen an die Sicherheit
+* Wartbarkeit meist erhöht, wenn die koexistenz niedrig ist

@@ -8,6 +8,9 @@ Grad, in dem ein System, ein Produkt oder eine Komponente betriebsbereit ist und
 
 ## Taktiken
 
+* Aufbau von Redundanzen
+  * Redundante Daten
+  * Redundante Berechnung (Knoten)
 
 
 

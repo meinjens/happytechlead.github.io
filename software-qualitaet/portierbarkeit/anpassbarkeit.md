@@ -16,3 +16,10 @@ Grad, in dem ein Produkt oder System effektiv und effizient an unterschiedliche 
 
 ## Wechselwirkungen zu anderen NFAs
 
+
+
+## Verwandte Merkmale
+
+* Konfigurierbarkeit
+* Verteilbarkeit
+* Rückbaubarkeit

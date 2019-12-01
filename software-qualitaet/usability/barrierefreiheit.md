@@ -12,4 +12,4 @@ Grad, in dem ein Produkt oder System von Personen mit den unterschiedlichsten Me
 
 ## Wechselwirkungen zu anderen NFAs
 
-
+* Kann der Attraktivität entgegenwirken

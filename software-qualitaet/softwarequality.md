@@ -6,6 +6,8 @@ permalink: /software-qualitaet
 
 ## Qualitätsmerkmale und -attribute
 
+Die DIN ISO 25010 definiert folgende Qualitätsmerkmale und -attribute
+
 * [Funktionale Angemessenheit]({% link software-qualitaet/funktionale-angemessenheit/funktionale-angemessenheit.md %})
   * [Funktionale Eignung]({% link software-qualitaet/funktionale-angemessenheit/funktionale-eignung.md %})
   * [Funktionale Korrektheit]({% link software-qualitaet/funktionale-angemessenheit/funktionale-korrektheit.md %})
@@ -17,6 +19,7 @@ permalink: /software-qualitaet
   * [Ästhetik]({% link software-qualitaet/usability/aesthetik.md %})
   * [Verständlichkeit]({% link software-qualitaet/usability/verstaendlichkeit.md %})
   * [Bedienbarkeit]({% link software-qualitaet/usability/bedienbarkeit.md %})
+  * [Personalisierbarkeit]({% link software-qualitaet/usability/personalisierbarkeit.md %})
 * [Zuverlässigkeit]({% link software-qualitaet/zuverlaessigkeit/zuverlaessigkeit.md %})
   * [Reifegrad]({% link software-qualitaet/zuverlaessigkeit/reifegrad.md %})
   * [Verfügbarkeit]({% link software-qualitaet/zuverlaessigkeit/verfuegbarkeit.md %})
@@ -45,6 +48,18 @@ permalink: /software-qualitaet
 * [Kompatibilität]({% link software-qualitaet/kompatibilitaet/kompatibilitaet.md %})
   * [Koexistenz]({% link software-qualitaet/kompatibilitaet/koexistenz.md %})
   * [Interoperabilität]({% link software-qualitaet/kompatibilitaet/interoperabilitaet.md %})
+
+
+## Erläuterungen zu weiteren Qualitätsmerkmalen
+
+### Wechselwirkungen zur Wirtschaftlichkeit
+
+Nahezu jedes Merkmal hat Wechselwirkungen zur Wirtschaftlichkeit. Deswegen muss bei jedem Merkmal die Wirtschaftlichkeit im Verhältnis zum jeweiligen Merkmal gesetzt werden.
+
+### Compliance Konformität
+
+Die IT-Richtlinien von Unternehmen bilden meist eine Sammlung von nicht-funktionalen Anforderungen, Prinzipien und Guidelines. Sie sind deshalb als Merkmal zur weiteren Zusammenarbeit ungeeignet, da sie die wichtigen Details verbergen.
+
 
 ## Quellen
 

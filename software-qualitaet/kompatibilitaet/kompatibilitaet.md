@@ -13,3 +13,6 @@ Grad, in dem ein Produkt seine erforderlichen Funktionen effizient ausführen ka
 Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen austauschen und die ausgetauschten Informationen verwenden können.
 
 ## Taktiken
+
+* Standardisierung
+* 

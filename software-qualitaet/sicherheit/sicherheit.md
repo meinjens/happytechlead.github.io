@@ -21,6 +21,10 @@ Grad, in dem die Aktionen einer Entität eindeutig auf die Entität zurückgefü
 [Authentizität]({% link software-qualitaet/sicherheit/authentizitaet.md %})
 Inwieweit die Identität eines Subjekts oder einer Ressource als die behauptete Identität nachgewiesen werden kann.
 
+[Gefahrlosigkeit]({% link software-qualitaet/sicherheit/gefahrlosigkeit.md %})
+Inweit Schaden vom Menschen abgewendet werden kann.
+
+
 ## Taktiken
 
 * Angriffe erkennen
@@ -44,3 +48,7 @@ Inwieweit die Identität eines Subjekts oder einer Ressource als die behauptete 
 * Wiederherstellung nach Angriffen
   * Audit des Einbruchs
   * Wiederherstellung
+
+## Wechselwirkungen zu anderen NFAs
+
+* Usability

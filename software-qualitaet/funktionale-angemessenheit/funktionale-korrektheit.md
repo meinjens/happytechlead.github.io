@@ -6,16 +6,24 @@ permalink: /software-qualitaet/funktionale-angemessenheit/korrektheit
 
 Grad, in dem ein Produkt oder System die richtigen Ergebnisse mit der erforderlichen Präzision liefert.
 
-## Taktiken
+## Taktiken (beta)
 
-* 
-
-* Hohe Testabdeckung
-* Unittest
-* Acceptance Tests aller kritischen Funktionen
-* Risikomanagement
+* Planung
+  * Risikobewertung der Szenarien
+* Implementation
+  * Hohen Überdeckungsgrad in der Test-Pyramide
+  * Acceptance Tests aller kritischen Funktionen
+* Monitoring
+  * Überprüfung und Erkennung der Abweichungen
 
 ## Wechselwirkungen mit anderen NFAs
 
-* Keine Funktionale Korrektheit -> Keine Akzeptanz beim Benutzer -> Wirtschaftlicher Schaden
-* Ermöglicht durch Testbarkeit
+### Verfügbarkeit
+
+Beispiel:
+Sind die Informationen meiner Anwendung stark von Fremdsystemen abhängig, hängt die Korrektheit u.U. stark von der Verfügbarkeit dieser Systeme (oder ihrer Redundanzen) ab.
+
+## Verwandte Merkmale
+
+* Präzision
+* Genauigkeit

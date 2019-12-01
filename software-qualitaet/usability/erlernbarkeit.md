@@ -12,3 +12,8 @@ Grad, in dem ein Produkt oder System von bestimmten Benutzern verwendet werden k
 
 ## Wechselwirkungen zu anderen NFAs
 
+
+## Weitere Merkmale
+
+* Demonstrierbarkeit
+* Standardisierung

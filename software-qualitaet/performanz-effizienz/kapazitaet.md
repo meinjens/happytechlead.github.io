@@ -8,8 +8,10 @@ Grad, in dem die Höchstgrenzen eines Produkt- oder Systemparameters den Anforde
 
 ## Taktiken
 
-* Regelmäßige Messungen, um frühzeitige Veränderungen erkennen zu können.
-* Regelmäßige Lasttests
+* Entwürfe
+  * Nebenläufigkeit einführen
+* Messungen
+  * Automatisierung der Messung
 
 ## Wechselwirkungen mit anderen NFAs
 
