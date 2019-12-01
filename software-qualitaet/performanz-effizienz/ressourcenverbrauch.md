@@ -6,28 +6,32 @@ permalink: /software-qualitaet/performanz-effizienz/ressourcenverbrauch
 
 Grad, in dem die Mengen und Arten von Ressourcen, die von einem Produkt oder System zur Erfüllung seiner Funktionen verwendet werden, den Anforderungen entsprechen.
 
-## Taktiken
+## Taktiken (beta)
 
-* Regelmäßiger möglichst automatisierter Abgleich von Bedarf und Soll 
-
-
-* Kontrolliere den Ressourcenverbrauch
+* Monitoring
+  * Analyse mit Hilfe von Profiling (CPU-Zeit)
+  * Application Performance Monitoring
+* Steuerung des Ressourcenverbrauchs
   * Auto-Scaling von Ressourcen
   * Verändern der Anfragerate
   * Limitieren der Event Anwort
   * Events priorisieren
   * Überflüssiges entfernen
   * Ausführungszeiten begrenzen
-  * Effizienz der Ressourcen erhöhen
-* Ressourcen verwalten
-  * Weitere Ressourcen einbinden
-  * Nebenläufigkeit einführen
-  * Verteilung der Berechnung auf mehrere Knoten
-  * Verteilung der Speicherung (Caching)
-  * Ressourceneinsatz planen
 
 ## Wechselwirkungen mit anderen NFAs
 
-* Hoher Ressourcenverbrauch wg. Hoher Verfügbarkeit
-* Hoher Ressourceverbrauch wg. Geschwindigkeit
-* Hoher Ressourcenverbrauch -> Hohe Kapazität
+### Wartbarkeit
+
+Beispiel:
+Ein System wurde aus Performancegründen auf mehrere Knoten verteilt und stellt dadurch höhere Anforderungen an die Analysierbarkeit (z.B. Loganalyse).
+
+### Portierbarkeit
+
+Beispiel:
+Um einen Anwendung ausfallsicher zu gestalten, soll sie bei unterschiedlichen Cloud-Anbietern installiert werden.
+
+### Kapazität
+
+Beispiel:
+Ist der Ressourcenbedarf einer Anwendung nicht erfüllt, so kann die Anwendung die angeforderte Arbeitslast ggf. nicht mehr erfüllen.

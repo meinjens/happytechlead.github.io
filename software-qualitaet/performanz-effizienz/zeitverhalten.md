@@ -8,16 +8,33 @@ Grad, in dem die Reaktions- und Verarbeitungszeiten sowie die Durchsatzraten ein
 
 ## Taktiken
 
-* Frühes und regelmäßiges Messen der Performance, um Veränderungen frühzeitig zu erkennen und angemessen reagieren zu können.
-
 * Messung
   * Automatisiertes Performance Testing für das gesamte System
-  * Analyse mit Hilfe von Profiling
-* Anpassung
-  * Automatisierte Skalierung
-  * Horizontale Skalierung (Nodes)
-  * Vertikale Skalierung (CPU, RAM)
+  * Analyse mit Hilfe von Profiling (CPU-Zeit)
+* Skalierung
+  * Effizienz der Ressourcen erhöhen (Vertikale Skalierung)
+  * Weitere Ressourcen einbinden (Horizontale Skalierung)
+* Verteilung
+  * Nebenläufigkeit einführen
+  * Berechnung auf mehrere Knoten
+  * Redundante Speicherung (Caching)
+
 
 ## Wechselwirkungen mit anderen NFAs
 
-* Ressourcenverbrauch ggf. erhöht um das Zeitverhalten zu beeinflussen
+### Ressourcenverbrauch
+
+Beispiel:
+Eine Anwendung wurde auf mehrere Knoten verteilt, um seine Funktionen schneller ausführen zu können.
+
+
+### Wartbarkeit
+
+Beispiel:
+Eine verteilte Anwendung stellt auf Grund des höheren Konfigurationsaufwands erhöhte Anforderungen an die Wartbarkeit.
+
+
+### Portierbarkeit
+
+Beispiel:
+Eine Anwendung soll auf mehrere Knoten installiert werden,
