@@ -15,7 +15,7 @@ Grad, in dem ein Produkt oder System auf die persönlichen Bedürfnisse hin ange
 * Hohe Anforderungen an die Sicherheit wirkt sich meist negativ auf die Usability aus
 
 
-## Weitere Merkmale
+## Verwandte Merkmale
 
 * Lokalisierbarkeit
 * Individualisierbarkeit

@@ -18,3 +18,7 @@ Grad, in dem ein System, ein Produkt oder eine Komponente betriebsbereit ist und
 
 * Geringe Verfügbarkeit -> Fehler -> Ausfall -> Wirtschaftlicher Schaden
 * Hohe Verfügbarkeit -> Hoher Ressourcenverbrauch
+
+## Weitere Merkmale
+
+* Skalierbarkeit

@@ -22,7 +22,7 @@ Grad, in dem die Aktionen einer Entität eindeutig auf die Entität zurückgefü
 Inwieweit die Identität eines Subjekts oder einer Ressource als die behauptete Identität nachgewiesen werden kann.
 
 [Gefahrlosigkeit]({% link software-qualitaet/sicherheit/gefahrlosigkeit.md %})
-Inweit Schaden vom Menschen abgewendet werden kann.
+Inweit potentieller Schaden für Leib und Seele vom Menschen abgewendet werden kann.
 
 
 ## Taktiken

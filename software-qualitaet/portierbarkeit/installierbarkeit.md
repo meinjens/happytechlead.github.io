@@ -15,4 +15,9 @@ Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer b
 ## Wechselwirkungen zu anderen NFAs
 
 * Geringe Installierbarkeit -> Geringe Wiederherstellbarkeit
-* 
+
+
+## Weitere Merkmale
+
+* Skalierbarkeit
+* Deploybarkeit

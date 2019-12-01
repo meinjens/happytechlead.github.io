@@ -13,3 +13,9 @@ Grad, in dem ein Produkt oder ein System Merkmale aufweist, die die Bedienung un
 ## Wechselwirkungen zu anderen NFAs
 
 * Hohe Sicherheit hat meist eine mindere Bedienbarkeit zur Folge
+
+## Weiterführende Mermale
+
+* Vorhersagbarkeit
+* Mobilität
+* Nahtlosigkeit

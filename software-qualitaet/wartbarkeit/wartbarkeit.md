@@ -36,3 +36,6 @@ Effektivitäts- und Effizienzgrad, mit dem Testkriterien für ein System, ein Pr
   * Allgemeine Services abstrahieren
 * Bindung verschieben
   * Frühe vs. Späte Bindung
+
+## Wechselwirkungen mit anderen NFAs
+

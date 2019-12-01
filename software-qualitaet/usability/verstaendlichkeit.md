@@ -14,6 +14,15 @@ Grad, in dem Benutzer erkennen können, ob ein Produkt oder ein System für ihre
 * Rapid Prototyping
 * Design Thinking
 
+
+## Verwandte Qualitätsattribute
+
+* Einfachheit
+* Lokalisierbarkeit
+* Regionalisierbarkeit
+* Bestimmbarkeit
+
 ## Wechselwirkungen zu anderen NFAs
+
 
 
