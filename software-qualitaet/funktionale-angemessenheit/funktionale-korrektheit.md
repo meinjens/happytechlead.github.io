@@ -13,6 +13,7 @@ Grad, in dem ein Produkt oder System die richtigen Ergebnisse mit der erforderli
 * Implementation
   * Hohen Überdeckungsgrad in der Test-Pyramide
   * Acceptance Tests aller kritischen Funktionen
+  * Iteratives Vorgehensmodell
 * Monitoring
   * Überprüfung und Erkennung der Abweichungen
 

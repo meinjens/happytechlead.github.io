@@ -18,6 +18,7 @@ Grad, in dem die Funktionen für die Erreichung der bestimmten Aufgaben und Ziel
   * Funktionales Montoring
 * Korrektur
   * Regelmäßige Releases
+  * Iteratives Vorgehensmodell
 
 ## Wechselwirkungen mit anderen NFAs
 

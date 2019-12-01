@@ -17,18 +17,3 @@ Grad, in dem ein Produkt oder System die richtigen Ergebnisse mit der erforderli
 ## [Funktionale Eignung]({% link software-qualitaet/funktionale-angemessenheit/funktionale-eignung.md %})
 
 Grad, in dem die Funktionen für die Erreichung der bestimmten Aufgaben und Ziele geeignet sind.
-
-## Taktiken
-
-* Iteratives Vorgehen
-  * Kurze Feedbackzyklen
-  * Regelmäßige kleine Releases
-* Funktionales Monitoring
-  * Analyse des Nutzerverhaltens
-  * Nutzerbefragungen
-* Hohe Testabdeckung
-  * Testpyramide gleichmäßig ausgefüllt
-
-## Wechselwirkungen zu anderen NFAs
-
-* 
