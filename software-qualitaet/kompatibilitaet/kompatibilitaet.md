@@ -11,8 +11,3 @@ Grad, in dem ein Produkt seine erforderlichen Funktionen effizient ausführen ka
 
 [Interoperabilität]({% link software-qualitaet/kompatibilitaet/interoperabilitaet.md %})
 Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen austauschen und die ausgetauschten Informationen verwenden können.
-
-## Taktiken
-
-* Standardisierung
-* 

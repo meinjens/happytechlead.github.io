@@ -6,10 +6,11 @@ permalink: /software-qualitaet/kompatibilitaet/koexistenz
 
 Grad, in dem ein Produkt seine erforderlichen Funktionen effizient ausführen kann, während es eine gemeinsame Umgebung und Ressourcen mit anderen Produkten teilt, ohne dass sich dies nachteilig auf andere Produkte auswirkt.
 
-## Taktiken
+## Taktiken (beta)
 
 * Gleiche Betriebsumgebung
   * Trennung durch Kontext / Namensräume
+  * Trennung durch Versionen
 * Getrennte Betriebsumgebung
   * Trennung durch Konfiguration
 * Kontextbasierte Ausführung / Mandantenfähigkeit
@@ -21,6 +22,13 @@ Grad, in dem ein Produkt seine erforderlichen Funktionen effizient ausführen ka
 
 ## Wechselwirkungen mit anderen NFAs
 
-* Keine Datenintegrität -> Sicherheitsverletzungen bei in verschiedenen Mandanten
-* Hohe Koexistenz -> Hohe Anforderungen an die Sicherheit
-* Wartbarkeit meist erhöht, wenn die koexistenz niedrig ist
+### Sicherheit
+
+Beispiel:
+Ein mandantenfähiges System stellt hohe Anforderungen an die Datenintegrität, da es in den meisten Fällen unbedingt vermieden werden muss, dass sich die Mandanten gegenseitig beeinflussen können bzw. die Daten des anderen Mandanten sehen dürfen.
+
+### Wartbarkeit
+
+Beispiel:
+Ein mandantenfähiges System stellt erhöhte Anforderungen an die Wartbarkeit, da für die jeweiligen Mandaten meist unterschiedliche Konfigurationen und Verhalten verwendet werden.
+
