@@ -6,7 +6,7 @@ permalink: /software-qualitaet/zuverlaessigkeit/fehlertoleranz
 
 Grad, in dem ein System, Produkt oder eine Komponente trotz Hardware- oder Softwarefehlern bestimmungsgemäß funktioniert.
 
-## Taktiken
+## Ideen für Taktiken
 
 * Fehlererkennung
   * Ping / Echo

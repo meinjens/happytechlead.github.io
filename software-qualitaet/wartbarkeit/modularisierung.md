@@ -6,14 +6,17 @@ permalink: /software-qualitaet/wartbarkeit/modularisierung
 
 Grad, in dem ein System oder Computerprogramm aus diskreten Komponenten besteht, sodass eine Änderung an einer Komponente nur minimale Auswirkungen auf andere Komponenten hat.
 
-## Taktiken
+## Ideen für Taktiken
 
-* S.O.L.I.D. Principles
-* Automatisierte Überprüfung von Abhängigkeiten und architektonischen Aspekten
+* Entwurf & Implementierung
+  * S.O.L.I.D. Principles
+* Überprüfung
+  * Automatisierte Überprüfung von Abhängigkeiten und architektonischen Aspekten
 
 
 ## Wechselwirkungen zu anderen NFAs
 
-## Weitere Merkmale
+### Analysierbarkeit
 
-* Wiederverwendung
+Beispiel:
+Ein hoher Grad an Modularisierung führt meist auch zu einer schlechteren Analysierbarkeit auf Grund der höheren Komplexität.

@@ -6,12 +6,20 @@ permalink: /software-qualitaet/wartbarkeit/analysierbarkeit
 
 Grad der Wirksamkeit und Effizienz, mit dem es möglich ist, die Auswirkungen einer beabsichtigten Änderung eines oder mehrerer seiner Teile auf ein Produkt oder ein System zu bewerten oder ein Produkt auf Mängel oder Fehlerursachen zu diagnostizieren oder zu ändernde Teile zu identifizieren.
 
-## Taktiken
+## Weitere Merkmale
+
+* Monitorbarkeit
+* Debugbarkeit
+* Nachverfolgbarkeit
+
+## Ideen für Taktiken
 
 * Implementierung
+  * Clean Code
   * Aussagekräftige Fehlermeldungen / Codes
   * Pair Programming
   * Mob Programming
+  * Coding Conventions
 * Continous Inspection
   * Code Reviews
   * Automatisierte Codeanalyse
@@ -23,12 +31,7 @@ Grad der Wirksamkeit und Effizienz, mit dem es möglich ist, die Auswirkungen ei
 
 ## Wechselwirkungen zu anderen NFAs
 
-* Hohe Analysierbarkeit -> Erschwert Sicherheit und Performance & Effizienz
-* Hohe Verfügbarkeit -> Erschert Analysierbarkeit
+### Performance & Effizienz
 
-## Weitere Merkmalle
-
-* Allgegenwart
-* Monitorbarkeit
-* Debugbarkeit
-* Nachverfolgbarkeit
+Beispiel:
+Ein hoher Grad an Anforderungen zu Analysierbarkeit kann dazu führen, dass viele zusätzliche Systeme, wie Tracing, Monitoring, Logging etc. eingesetzt werden, die Einfluss auf die Performance haben können.

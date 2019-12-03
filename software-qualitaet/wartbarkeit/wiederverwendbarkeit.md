@@ -6,7 +6,11 @@ permalink: /software-qualitaet/wartbarkeit/wiederverwendbarkeit
 
 Grad, in dem ein Asset in mehr als einem System oder beim Erstellen anderer Assets verwendet werden kann.
 
-## Taktiken
+## Weitere Merkmale
 
+* Allgegenwart
 
-## Wechselwirkungen zu anderen NFAs
+## Ideen für Taktiken
+
+* Wiederverwendung durch Refactoring entstehen lassen, anstatt zu planen
+* Prinzipien in Code gießen

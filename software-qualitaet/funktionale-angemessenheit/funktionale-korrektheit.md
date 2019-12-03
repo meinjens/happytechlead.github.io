@@ -6,7 +6,7 @@ permalink: /software-qualitaet/funktionale-angemessenheit/korrektheit
 
 Grad, in dem ein Produkt oder System die richtigen Ergebnisse mit der erforderlichen Präzision liefert.
 
-## Taktiken (beta)
+## Ideen für Taktiken
 
 * Planung
   * Risikobewertung der Szenarien

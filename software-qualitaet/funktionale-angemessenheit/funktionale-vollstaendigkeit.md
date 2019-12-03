@@ -6,10 +6,10 @@ permalink: /software-qualitaet/funktionale-angemessenheit/vollstaendigkeit
 
 Grad, in dem der Funktionsumfang alle festgelegten Aufgaben und Benutzerziele abdeckt.
 
-## Taktiken (beta)
+## Ideen für Taktiken
 
 * Planung
-  * Product Canvas
+  * Product oder Business Canvas
   * Iteratives Vorgehensmodell
 * Analyze
   * Nutzerverhalten

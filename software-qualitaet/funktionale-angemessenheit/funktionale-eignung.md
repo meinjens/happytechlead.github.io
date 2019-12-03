@@ -6,7 +6,7 @@ permalink: /software-qualitaet/funktionale-angemessenheit/eignung
 
 Grad, in dem die Funktionen für die Erreichung der bestimmten Aufgaben und Ziele geeignet sind.
 
-## Taktiken (beta)
+## Ideen für Taktiken
 
 * Vorbeugung
   * Frühes Feedback vom Benutzer einholen
