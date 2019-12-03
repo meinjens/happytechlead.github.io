@@ -6,7 +6,7 @@ permalink: /software-qualitaet/portierbarkeit/austauschbarkeit
 
 Grad, in dem ein Produkt ein anderes bestimmtes Softwareprodukt für denselben Zweck in derselben Umgebung ersetzen kann.
 
-## Tatiken
+## Ideen für Tatiken
 
 
 * Entkopplung

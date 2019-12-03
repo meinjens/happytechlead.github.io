@@ -6,7 +6,7 @@ permalink: /softwarequality/performanz-effizienz/kapazitaet
 
 Grad, in dem die Höchstgrenzen eines Produkt- oder Systemparameters den Anforderungen entsprechen.
 
-## Taktiken (beta)
+## Ideen für Taktiken
 
 * Implementierung
   * Ressourcen bei Bedarf nutzen (Serverless)

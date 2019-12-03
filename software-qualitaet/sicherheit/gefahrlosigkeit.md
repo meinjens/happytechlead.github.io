@@ -6,9 +6,9 @@ permalink: /software-qualitaet/sicherheit/authentizitaet
 
 Inweit potentieller Schaden für Leib und Seele vom Menschen abgewendet werden kann.
 
-## Tatiken (beta)
+## Ideen für Tatiken
 
-* Plan
+* Planen
   * Identifizieren von Risiken mit entsprechenden Gegenmaßnahmen
 
 ## Wechselwirkungen zu anderen NFAs

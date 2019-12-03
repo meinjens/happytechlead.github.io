@@ -6,7 +6,7 @@ permalink: /software-qualitaet/kompatibilitaet/koexistenz
 
 Grad, in dem ein Produkt seine erforderlichen Funktionen effizient ausführen kann, während es eine gemeinsame Umgebung und Ressourcen mit anderen Produkten teilt, ohne dass sich dies nachteilig auf andere Produkte auswirkt.
 
-## Taktiken (beta)
+## Ideen für Taktiken
 
 * Gleiche Betriebsumgebung
   * Trennung durch Kontext / Namensräume

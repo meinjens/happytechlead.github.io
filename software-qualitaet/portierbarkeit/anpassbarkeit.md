@@ -5,8 +5,13 @@ permalink: /software-qualitaet/portierbarkeit/anpassbarkeit
 ---
 Grad, in dem ein Produkt oder System effektiv und effizient an unterschiedliche oder sich entwickelnde Hardware, Software oder andere Betriebs- oder Nutzungsumgebungen angepasst werden kann.
 
-## Taktiken (beta)
+## Weitere Merkmale
 
+* Konfigurierbarkeit
+* Verteilbarkeit
+* Rückbaubarkeit
+
+## Ideen für Taktiken
 
 * Entkopplung
   * 
@@ -15,13 +20,3 @@ Grad, in dem ein Produkt oder System effektiv und effizient an unterschiedliche 
 * Konfiguration
 * Mandantenfähigkeit
 * Konfiguration als Service
-
-## Wechselwirkungen zu anderen NFAs
-
-
-
-## Verwandte Merkmale
-
-* Konfigurierbarkeit
-* Verteilbarkeit
-* Rückbaubarkeit

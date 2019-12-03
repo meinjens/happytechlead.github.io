@@ -6,7 +6,7 @@ permalink: /software-qualitaet/performanz-effizienz/zeitverhalten
 
 Grad, in dem die Reaktions- und Verarbeitungszeiten sowie die Durchsatzraten eines Produkts oder Systems bei der Erfüllung seiner Funktionen den Anforderungen entsprechen.
 
-## Taktiken
+## Ideen für Taktiken
 
 * Messung
   * Automatisiertes Performance Testing für das gesamte System

@@ -6,7 +6,7 @@ permalink: /software-qualitaet/sicherheit/vertraulichkeit
 
 Inwieweit ein Produkt oder System sicherstellt, dass Daten nur für diejenigen zugänglich sind, die zum Zugriff berechtigt sind.
 
-## Taktiken
+## Ideen für Taktiken
 
 ## Wechselwirkungen zu anderen NFAs
 

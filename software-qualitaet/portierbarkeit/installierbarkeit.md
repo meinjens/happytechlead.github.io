@@ -5,7 +5,11 @@ permalink: /software-qualitaet/portierbarkeit/installierbarkeit
 ---
 Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer bestimmten Umgebung erfolgreich installiert und / oder deinstalliert werden kann.
 
-## Taktiken
+## Weitere Merkmale
+
+* Deploybarkeit
+
+## Ideen für Taktiken
 
 * Regelmäßiges automatisiertes Installieren des Produktes / Systems auf verschiedenen Zielsystemen
 * Infrastructure as Code
@@ -15,9 +19,3 @@ Grad der Effektivität und Effizienz, mit der ein Produkt oder System in einer b
 ## Wechselwirkungen zu anderen NFAs
 
 * Geringe Installierbarkeit -> Geringe Wiederherstellbarkeit
-
-
-## Weitere Merkmale
-
-* Skalierbarkeit
-* Deploybarkeit

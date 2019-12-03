@@ -6,7 +6,7 @@ permalink: /software-qualitaet/performanz-effizienz/ressourcenverbrauch
 
 Grad, in dem die Mengen und Arten von Ressourcen, die von einem Produkt oder System zur Erfüllung seiner Funktionen verwendet werden, den Anforderungen entsprechen.
 
-## Taktiken (beta)
+## Ideen für Taktiken
 
 * Monitoring
   * Analyse mit Hilfe von Profiling (CPU-Zeit)

@@ -6,7 +6,11 @@ permalink: /software-qualitaet/kompatibilitaet/interoperabilitaet
 
 Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen austauschen und die ausgetauschten Informationen verwenden können.
 
-## Taktiken (beta)
+## Weitere Merkmale
+
+* Nahtlosigkeit
+
+## Ideen für Taktiken
 
 * Standardardisierung
   * Software und Bibliotheken (Container, VMs)
@@ -19,10 +23,3 @@ Grad, in dem zwei oder mehr Systeme, Produkte oder Komponenten Informationen aus
   * Chaos Monkey 
   * Systemtests
  
-
-## Wechselwirkungen mit anderen NFAs
-
-
-## Weitere Merkmale
-
-* Nahtlosigkeit

@@ -6,7 +6,7 @@ permalink: /software-qualitaet/usability/aesthetik
 
 Grad, in dem die Benutzeroberfläche eine ansprechende und zufriedenstellende Interaktion für den Benutzer ermöglicht.
 
-## Taktiken
+## Ideen für Taktiken
 
 
 ## Wechselwirkungen zu anderen NFAs
