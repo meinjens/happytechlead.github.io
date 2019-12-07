@@ -7,22 +7,15 @@ Effektivitäts- und Effizienzgrad, mit dem Testkriterien für ein System, ein Pr
 
 ## Ideen für Taktiken
 
-* Test-Strategie
-  * Acceptance Tests
-  * Unit Tests
-  * Security Tests
-  * System Tests
-  * Smoke Tests
-  * Consumer Contract Tests
-  * Integration Tests
-  * Chaos Engineering Tests
-* Kontrolliere und Beobachte den Systemzustand
+* Implementierung
+  * Test-Strategie erarbeiten
+* Beobachte den Systemzustand
   * Spezialisierte Interfaces
   * Aufnahme / Abspielen
   * Lokalisierte Speicherung des States
   * Abstrakte Datenspeicher / -quellen
-  * Sandbox
+  * Sandboxing
   * Überprüfungen von Eingabedaten (assertions)
 * Limitiere die Komplexität
-  * Limitiere die strukturelle Komplexität
-  * Limitiere nicht-Determinismus
+  * Strukturelle Komplexität
+  * Nicht-Determinismus

@@ -14,3 +14,6 @@ Grad, in dem ein Asset in mehr als einem System oder beim Erstellen anderer Asse
 
 * Wiederverwendung durch Refactoring entstehen lassen, anstatt zu planen
 * Prinzipien in Code gießen
+* Plugin-Architekturen
+* Interfaces klein halten
+* 

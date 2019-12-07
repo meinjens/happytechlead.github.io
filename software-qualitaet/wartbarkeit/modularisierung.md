@@ -8,11 +8,17 @@ Grad, in dem ein System oder Computerprogramm aus diskreten Komponenten besteht,
 
 ## Ideen für Taktiken
 
-* Entwurf & Implementierung
-  * S.O.L.I.D. Principles
 * Überprüfung
   * Automatisierte Überprüfung von Abhängigkeiten und architektonischen Aspekten
-
+  * Vertikaler und Horizontaler Schnitt
+* Abstrakte Betriebsumgebung
+  * Containerisierung
+  * Virtuelle Umgebungen
+* Entkopplung der Module
+  * Event-Basierte Architekturen
+  * Service-Orientierung
+  * Microservices
+  * Serverless
 
 ## Wechselwirkungen zu anderen NFAs
 

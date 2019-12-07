@@ -16,13 +16,12 @@ Grad der Wirksamkeit und Effizienz, mit dem es möglich ist, die Auswirkungen ei
 
 * Implementierung
   * Clean Code
-  * Aussagekräftige Fehlermeldungen / Codes
-  * Pair Programming
-  * Mob Programming
+  * Pair / Mob Programming
   * Coding Conventions
+  * Aussagekräftige Fehlermeldungen / Codes
 * Continous Inspection
   * Code Reviews
-  * Automatisierte Codeanalyse
+  * Automatisierte Code- oder Architekturanalyse
 * Unterstützung der Analyse durch Werkzeuge
   * Monitoring
   * Tracing
