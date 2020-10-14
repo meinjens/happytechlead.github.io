@@ -6,6 +6,10 @@ permalink: /software-qualitaet/usability/fehlervermeidung
 
 Grad, in dem der Benutzer davor bewahrt wird Fehler zu machen.
 
+## Weitere Merkmale
+
+* Fehlertoleranz
+
 ## Ideen für Taktiken
 
 * Support User Initiative

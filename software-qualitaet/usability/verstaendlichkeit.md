@@ -10,6 +10,7 @@ Grad, in dem Benutzer erkennen können, ob ein Produkt oder ein System für ihre
 * Lokalisierbarkeit
 * Regionalisierbarkeit
 * Bestimmbarkeit
+* Selbstbeschreibungsfähigkeit
 
 ## Ideen für Taktiken
 
@@ -18,6 +19,7 @@ Grad, in dem Benutzer erkennen können, ob ein Produkt oder ein System für ihre
 * A/B-Test
 * Rapid Prototyping
 * Design Thinking
+* [Design Sprints](https://www.gv.com/sprint/)
 
 ## Wechselwirkungen zu anderen NFAs
 

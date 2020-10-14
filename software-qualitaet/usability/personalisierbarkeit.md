@@ -14,8 +14,8 @@ Grad, in dem ein Produkt oder System auf die persönlichen Bedürfnisse hin ange
 
 ## Ideen für Taktiken
 
+TODO Taktiken entwickeln
 
 ## Wechselwirkungen zu anderen NFAs
 
-* Hohe Anforderungen an die Sicherheit wirkt sich meist negativ auf die Usability aus
-
+TODO Wechselwirkungen erarbeiten

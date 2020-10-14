@@ -9,7 +9,7 @@ Grad, in dem ein Produkt oder System von bestimmten Benutzern verwendet werden k
 ## Weitere Merkmale
 
 * Demonstrierbarkeit
-
+* Lernförderlichkeit
 
 ## Ideen für Taktiken
 
