@@ -4,29 +4,35 @@ title: Werkzeuge für Software Architektur
 permalink: /architecture-tools
 ---
 
-# Dokumentation
+# Architektur Dokumentation
 
 Eine wesentlicher Teil der Architekturarbeit ist Dokumentation.
 
 ## Docs As Code
 
-Philosphie, die beschreibt die Dokumentation mit den gleichen Werkzeugen wir den Code zu bearbeiten.
+Philosophie, die beschreibt die Dokumentation mit den gleichen Werkzeugen wir den Code zu bearbeiten.
 
-Weitere Informationen: [https://www.writethedocs.org/guide/docs-as-code/](https://www.writethedocs.org/guide/docs-as-code/)
+Weitere Informationen: [www.writethedocs.org/guide/docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)
 
 
 ## arc42
 
-Etablierte Standard-Vorlage für Architektur Dokumentationen, die in unterschliedlichen Formaten angeboten wird.
+Etablierte Standard-Vorlage für Architektur Dokumentationen, die in unterschiedlichen Formaten angeboten wird.
 
-Link: https://arc42.org/
+Link: [arc42.org](https://arc42.org/)
 
 ## doctoolchain
 
 Werkzeuge zur Generierung und Verwaltung von Dokumentationen 
 
-Link: https://doctoolchain.github.io/docToolchain/
+Link: [doctoolchain.github.io/docToolchain](https://doctoolchain.github.io/docToolchain/)
 
+
+## C4 Model
+
+Einfaches Modell um Architekturen zu visualisieren
+
+Link: [c4model.com](https://c4model.com/)
 
 # Workshop Formate
 
@@ -38,8 +44,14 @@ Workshop zur Erarbeitung einer effizienten Dokumentationsstrategie
 
 Link: [Blog von Christian Fischer](https://agiledojo.de/2019-03-27-dokumentationsstrategie/)
 
+## Risk Storming
+
+Workshop zur Erarbeitung von Technischen Risiken
+
+Link: [riskstorming.com](https://riskstorming.com/)
+
 ## Game Of Quality
 
 Workshop zur Erarbeitung von Qualitätszielen für ein Software System
 
-Link: [Game of Quality]({% link architecture-tools/game-of-quality.md.md %})
+Link: [Game of Quality]({% link architecture-tools/game-of-quality.md %})
