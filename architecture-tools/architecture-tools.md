@@ -42,4 +42,4 @@ Link: [Blog von Christian Fischer](https://agiledojo.de/2019-03-27-dokumentation
 
 Workshop zur Erarbeitung von Qualitätszielen für ein Software System
 
-Link: [Game of Quality]({% link game-of-quality.md.md %})
+Link: [Game of Quality]({% link architecture-tools/game-of-quality.md.md %})
