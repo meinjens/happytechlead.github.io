@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Game of quality
+title: Game Of Quality
 permalink: /architecture-tools/game-of-quality
 ---
+
+Workshop Format zur Erarbeitung von Qualitätszielen
