@@ -1,10 +1,45 @@
 ---
 layout: page
-title: Werkzeuge für Software Architektur 
+title: Werkzeuge für Software Architekturarbeit 
 permalink: /architecture-tools
 ---
 
-# Architektur Dokumentation
+# Workshop Formate
+
+Workshops dienen dazu in einer größeren Gruppe Ziele oder Lösungen zu Problemen zu erarbeiten. Sie sind somit ein mächtiges Werkzeug.
+
+## Event Storming
+
+Methode zur Zusammenarbeit zwischen Fachbereich und Technik um die Fachdomäne zu analysieren und zu strukturieren
+
+[eventstorming.com](https://www.eventstorming.com/)
+
+## Domain Story Telling
+
+Werkzeug zur Zusammenarbeit zwischen Fachbereich und Technik um die Fachdomäne kennenzulernen
+
+[domainstorytelling.org](https://domainstorytelling.org/)
+
+## Effiziente Dokumentationen
+
+Workshop zur Erarbeitung einer effizienten Dokumentationsstrategie
+
+[Blog von Christian Fischer](https://agiledojo.de/2019-03-27-dokumentationsstrategie/)
+
+## Risk Storming
+
+Workshop zur Erarbeitung von Technischen Risiken
+
+[riskstorming.com](https://riskstorming.com/)
+
+## Game Of Quality
+
+Workshop zur Erarbeitung von Qualitätszielen für ein Software System
+
+[Game of Quality]({% link architecture-tools/game-of-quality.md %})
+
+
+# Dokumentation
 
 Eine wesentlicher Teil der Architekturarbeit ist Dokumentation.
 
@@ -12,14 +47,14 @@ Eine wesentlicher Teil der Architekturarbeit ist Dokumentation.
 
 Philosophie, die beschreibt die Dokumentation mit den gleichen Werkzeugen wir den Code zu bearbeiten.
 
-Weitere Informationen: [www.writethedocs.org/guide/docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)
+[www.writethedocs.org/guide/docs-as-code](https://www.writethedocs.org/guide/docs-as-code/)
 
 
 ## arc42
 
 Etablierte Standard-Vorlage für Architektur Dokumentationen, die in unterschiedlichen Formaten angeboten wird.
 
-Link: [arc42.org](https://arc42.org/)
+[arc42.org](https://arc42.org/)
 
 ## doctoolchain
 
@@ -28,30 +63,47 @@ Werkzeuge zur Generierung und Verwaltung von Dokumentationen
 Link: [doctoolchain.github.io/docToolchain](https://doctoolchain.github.io/docToolchain/)
 
 
+# Modellierung
+
+Werkzeuge zur Modellierung dienen der Unterstützung der Kommunikation und bieten Möglichkeiten zur Verwendung von standardisierten Beschreibungssprachen wie z.B. UML oder BPMN.
+
 ## C4 Model
 
 Einfaches Modell um Architekturen zu visualisieren
 
-Link: [c4model.com](https://c4model.com/)
+[c4model.com](https://c4model.com/)
 
-# Workshop Formate
 
-Workshops dienen dazu in einer größeren Gruppe Ziele oder Lösungen zu Problemen zu erarbeiten. Sie sind somit ein mächtiges Werkzeug.
+# Code Generatoren
 
-## Effiziente Dokumentationen
+Code Generatoren werden verwendet um aus einem Modell oder einer strukturierten Beschreibung Quellcode zu generieren.
 
-Workshop zur Erarbeitung einer effizienten Dokumentationsstrategie
+## OpenAPI Generator
 
-Link: [Blog von Christian Fischer](https://agiledojo.de/2019-03-27-dokumentationsstrategie/)
+Definition von APIs (meist REST) und Generierung von Client und Server-Stubs
 
-## Risk Storming
+[www.openapis.org](https://www.openapis.org/)
 
-Workshop zur Erarbeitung von Technischen Risiken
+# Statische Analyse
 
-Link: [riskstorming.com](https://riskstorming.com/)
+## Sonarqube
 
-## Game Of Quality
+Sonarqube vereint mehrere Analysewerkzeuge und visualisiert die Ergebnisse. D 
 
-Workshop zur Erarbeitung von Qualitätszielen für ein Software System
+[sonarcloud.io](https://sonarcloud.io/)
 
-Link: [Game of Quality]({% link architecture-tools/game-of-quality.md %})
+# Profiling
+
+Profiler dienen der Analyse des dynamischen Verhaltens einer Software wie z.B. Speicherverbrauch und Laufzeitverhalten
+
+## Profiler von IntelliJ
+
+In IntelliJ ist eine Java Profiler integriert.
+
+[Jetbrains IntelliJ](https://www.jetbrains.com/help/idea/cpu-profiler.html)
+
+## Profilter von Chrome
+
+Die Entwicklertools vom Chromium haben einen Profiler eingebaut, mit dem sich das Verhalten einer Webanwendung genauer untersuchen lässt.
+
+[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/rendering-tools)
