@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Architektur Tools 
+title: Architecture Tools 
 permalink: /architecture-tools
 ---
 
