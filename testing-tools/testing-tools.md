@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Werkzeuge für Software Tests 
+title: Testing Tools
 permalink: /testing-tools
 ---
 
