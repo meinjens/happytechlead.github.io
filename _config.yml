@@ -114,10 +114,10 @@ url-pretty: "HappyTechLead.de"  # eg. "deanattali.com/beautiful-jekyll"
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 
-matomo:
-  site_id: "1"
-  uri: "analytics.jensmeinecke.de"
-  opt-out: true
+#matomo:
+# site_id: "1"
+#  uri: ""
+#  opt-out: true
 
 # --- Comments --- #
 
